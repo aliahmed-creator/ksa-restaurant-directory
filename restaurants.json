@@ -5,7 +5,8 @@
     "city": "Thuwal",
     "category": "Indian",
     "phone": "+96612802 4031",
-    "menuUrl": "https://www.tawabil-sa.com"
+    "menuUrl": "https://www.tawabil-sa.com",
+    "hours": "11:30-22:00"
   },
   {
     "id": "0007",
@@ -13,7 +14,8 @@
     "city": "Thuwal",
     "category": "Chinese",
     "phone": "+966128085408",
-    "menuUrl": "https://hungrycampus.com/showmenu.php?id=24"
+    "menuUrl": "https://hungrycampus.com/showmenu.php?id=24",
+    "hours": "Mo-Sa 11:30-14:30; Mo-Sa 17:00-22:00"
   },
   {
     "id": "0008",
@@ -21,7 +23,8 @@
     "city": "Thuwal",
     "category": "Chicken",
     "phone": "+966128024035",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "11:00-23:00"
   },
   {
     "id": "0010",
@@ -29,7 +32,8 @@
     "city": "Thuwal",
     "category": "Burger",
     "phone": "+966128024032",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "11:00-24:00"
   },
   {
     "id": "0012",
@@ -37,7 +41,8 @@
     "city": "Thuwal",
     "category": "Regional",
     "phone": "+966128024036",
-    "menuUrl": "https://hungrycampus.com/showmenu.php?id=23"
+    "menuUrl": "https://hungrycampus.com/showmenu.php?id=23",
+    "hours": "Mo-Su 11:00-22:00"
   },
   {
     "id": "0013",
@@ -45,7 +50,8 @@
     "city": "Thuwal",
     "category": "Sandwich",
     "phone": "+966126527575;+9664373477",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "07:30-23:00; Fr 13:00-23:00"
   },
   {
     "id": "0036",
@@ -53,7 +59,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "+966 9200 07498",
-    "menuUrl": "https://www.urthcaffe.sa/welcome/index"
+    "menuUrl": "https://www.urthcaffe.sa/welcome/index",
+    "hours": "Fr 13:00-24:00; Mo-Th,Sa-Su 08:00-24:00"
   },
   {
     "id": "0063",
@@ -61,7 +68,8 @@
     "city": "riyadh",
     "category": "Coffee Shop",
     "phone": "+966580694203",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "0071",
@@ -69,7 +77,8 @@
     "city": "",
     "category": "Coffee Shop",
     "phone": "+966122617049",
-    "menuUrl": "https://locations.starbucks.sa"
+    "menuUrl": "https://locations.starbucks.sa",
+    "hours": "Mo-Su 06:30-00:30"
   },
   {
     "id": "0075",
@@ -77,7 +86,8 @@
     "city": "",
     "category": "Coffee Shop",
     "phone": "+966122617062",
-    "menuUrl": "https://locations.starbucks.sa"
+    "menuUrl": "https://locations.starbucks.sa",
+    "hours": "24/7"
   },
   {
     "id": "0136",
@@ -85,7 +95,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "0114455544",
-    "menuUrl": "https://shurfa.com/"
+    "menuUrl": "https://shurfa.com/",
+    "hours": "Mo-Su 10:00-23:55"
   },
   {
     "id": "0144",
@@ -93,7 +104,8 @@
     "city": "Dammam",
     "category": "Coffee Shop",
     "phone": "+9966559353338",
-    "menuUrl": "https://mantorose.com.sa/"
+    "menuUrl": "https://mantorose.com.sa/",
+    "hours": "24/7"
   },
   {
     "id": "0145",
@@ -101,7 +113,8 @@
     "city": "Dammam",
     "category": "Burger",
     "phone": "8001212345",
-    "menuUrl": "https://www.mcdonalds.com/"
+    "menuUrl": "https://www.mcdonalds.com/",
+    "hours": "06:00-4:00"
   },
   {
     "id": "0159",
@@ -109,7 +122,8 @@
     "city": "",
     "category": "Pastry",
     "phone": "+966128024085",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0210",
@@ -117,7 +131,8 @@
     "city": "",
     "category": "Coffee Shop",
     "phone": "+966128024069",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "08:00-17:00; Fr off; Sa 10:00-16:00"
   },
   {
     "id": "0224",
@@ -125,7 +140,8 @@
     "city": "",
     "category": "Donut",
     "phone": "+9668001288999",
-    "menuUrl": "http://www.dunkindonuts.sa/"
+    "menuUrl": "http://www.dunkindonuts.sa/",
+    "hours": "Mo-Su 06:00-24:00"
   },
   {
     "id": "0246",
@@ -133,7 +149,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966138237755",
-    "menuUrl": "https://instagram.com/spicymeal"
+    "menuUrl": "https://instagram.com/spicymeal",
+    "hours": ""
   },
   {
     "id": "0261",
@@ -141,7 +158,8 @@
     "city": "",
     "category": "Coffee Shop",
     "phone": "+966 50 747 8472",
-    "menuUrl": "http://morethanacafe.com.sa"
+    "menuUrl": "http://morethanacafe.com.sa",
+    "hours": ""
   },
   {
     "id": "0279",
@@ -149,7 +167,8 @@
     "city": "",
     "category": "Kebab",
     "phone": "+966 17 522 5838",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0292",
@@ -157,7 +176,8 @@
     "city": "",
     "category": "Regional",
     "phone": "920000144",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0302",
@@ -165,7 +185,8 @@
     "city": "Thuwal",
     "category": "Barbecue",
     "phone": "+966128024091;+966552369369",
-    "menuUrl": "https://communitylife.kaust.edu.sa/docs/default-source/services-docs/menus/smoked-ash-menu.pdff"
+    "menuUrl": "https://communitylife.kaust.edu.sa/docs/default-source/services-docs/menus/smoked-ash-menu.pdff",
+    "hours": "Mo-Sa 12:00-15:00; Mo-Sa 17:00-22:00"
   },
   {
     "id": "0303",
@@ -173,7 +194,8 @@
     "city": "Thuwal",
     "category": "Restaurant",
     "phone": "+966128086617;+966501334283",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "17:00-23:00"
   },
   {
     "id": "0368",
@@ -181,7 +203,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "0138634579",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0385",
@@ -189,7 +212,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966 12 6828525",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0386",
@@ -197,7 +221,8 @@
     "city": "",
     "category": "Korean",
     "phone": "+966126604769",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0415",
@@ -205,7 +230,8 @@
     "city": "Thuwal",
     "category": "Italian",
     "phone": "+966128024010",
-    "menuUrl": "https://hungrycampus.com/showmenu.php?id=20"
+    "menuUrl": "https://hungrycampus.com/showmenu.php?id=20",
+    "hours": "Mo-Su 11:00-21:00"
   },
   {
     "id": "0420",
@@ -213,7 +239,8 @@
     "city": "Thuwal",
     "category": "Fast Food",
     "phone": "+966557929280;+966556968019",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0425",
@@ -221,7 +248,8 @@
     "city": "Thuwal",
     "category": "Turkish",
     "phone": "+966509510050",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0426",
@@ -229,7 +257,8 @@
     "city": "Thuwal",
     "category": "Fast Food",
     "phone": "+966563045295;+966507073677",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0429",
@@ -237,7 +266,8 @@
     "city": "Thuwal",
     "category": "Chicken",
     "phone": "+966558518465",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0433",
@@ -245,7 +275,8 @@
     "city": "Thuwal",
     "category": "Turkish",
     "phone": "+955509510050",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0435",
@@ -253,7 +284,8 @@
     "city": "Thuwal",
     "category": "Bizarre",
     "phone": "+966553349932",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0439",
@@ -261,7 +293,8 @@
     "city": "Thuwal",
     "category": "Seafood",
     "phone": "+966509347202",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0449",
@@ -269,7 +302,8 @@
     "city": "Thuwal",
     "category": "Seafood",
     "phone": "+966563277721",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0452",
@@ -277,7 +311,8 @@
     "city": "",
     "category": "Indian",
     "phone": "+966126769885;+966126769886",
-    "menuUrl": "https://www.facebook.com/BARBQTONIGHTJEDDAH"
+    "menuUrl": "https://www.facebook.com/BARBQTONIGHTJEDDAH",
+    "hours": ""
   },
   {
     "id": "0453",
@@ -285,7 +320,8 @@
     "city": "",
     "category": "Indian",
     "phone": "+966126709205",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0454",
@@ -293,7 +329,8 @@
     "city": "Almadina",
     "category": "Restaurant",
     "phone": "+966542112413",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0458",
@@ -301,7 +338,8 @@
     "city": "Al Jubail",
     "category": "Kebab",
     "phone": "0133479900013",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0477",
@@ -309,7 +347,8 @@
     "city": "Riyadh",
     "category": "Coffee Shop",
     "phone": "+966 57 090 8181",
-    "menuUrl": "https://elixirbunn.com/"
+    "menuUrl": "https://elixirbunn.com/",
+    "hours": "21:00-01:00"
   },
   {
     "id": "0547",
@@ -317,7 +356,8 @@
     "city": "",
     "category": "Burger",
     "phone": "90000002",
-    "menuUrl": "https://instagram.com/burgerkingksa"
+    "menuUrl": "https://instagram.com/burgerkingksa",
+    "hours": "Mo-Su 12:00-01:30"
   },
   {
     "id": "0549",
@@ -325,7 +365,8 @@
     "city": "",
     "category": "Fast Food",
     "phone": "920001111",
-    "menuUrl": "https://www.herfy.com/"
+    "menuUrl": "https://www.herfy.com/",
+    "hours": ""
   },
   {
     "id": "0662",
@@ -333,7 +374,8 @@
     "city": "Dammam",
     "category": "Sandwich",
     "phone": "+966920006999",
-    "menuUrl": "https://www.kudu.com.sa/home"
+    "menuUrl": "https://www.kudu.com.sa/home",
+    "hours": ""
   },
   {
     "id": "0680",
@@ -341,7 +383,8 @@
     "city": "",
     "category": "Sandwich",
     "phone": "+966 9200 06999",
-    "menuUrl": "https://kudu.com.sa/"
+    "menuUrl": "https://kudu.com.sa/",
+    "hours": ""
   },
   {
     "id": "0730",
@@ -349,7 +392,8 @@
     "city": "",
     "category": "Friture",
     "phone": "920001111",
-    "menuUrl": "https://www.herfy.com/ar/restaurant.php"
+    "menuUrl": "https://www.herfy.com/ar/restaurant.php",
+    "hours": ""
   },
   {
     "id": "0731",
@@ -357,7 +401,8 @@
     "city": "",
     "category": "Chinese",
     "phone": "+966535593951;+966112419099;+966544719777",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0742",
@@ -365,7 +410,8 @@
     "city": "",
     "category": "Chicken",
     "phone": "920021111",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0767",
@@ -373,7 +419,8 @@
     "city": "",
     "category": "Fish",
     "phone": "0138548772",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0775",
@@ -381,7 +428,8 @@
     "city": "",
     "category": "Arab",
     "phone": "0567638474",
-    "menuUrl": "www.facebook.com/deewanrestaurant"
+    "menuUrl": "www.facebook.com/deewanrestaurant",
+    "hours": "Mo-Su 10:30-01:00"
   },
   {
     "id": "0777",
@@ -389,7 +437,8 @@
     "city": "",
     "category": "Pizza",
     "phone": "0544682900",
-    "menuUrl": "watsab/0590045041"
+    "menuUrl": "watsab/0590045041",
+    "hours": "24/7"
   },
   {
     "id": "0781",
@@ -397,7 +446,8 @@
     "city": "",
     "category": "Burger",
     "phone": "8001212345",
-    "menuUrl": "https://www.mcdonaldsarabia.com/"
+    "menuUrl": "https://www.mcdonaldsarabia.com/",
+    "hours": "Mo-Su 06:00-04:00"
   },
   {
     "id": "0789",
@@ -405,7 +455,8 @@
     "city": "",
     "category": "Local",
     "phone": "+966138290990",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0818",
@@ -413,7 +464,8 @@
     "city": "الرياض",
     "category": "Cafe",
     "phone": "0503667702",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Sa-Th 06:00-01:00"
   },
   {
     "id": "0824",
@@ -421,7 +473,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+9661380214466",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 12:00-24:00"
   },
   {
     "id": "0827",
@@ -429,7 +482,8 @@
     "city": "Al Khubar Ash Shamaliyah",
     "category": "Seafood",
     "phone": "0593995896",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0846",
@@ -437,7 +491,8 @@
     "city": "",
     "category": "Fast Food",
     "phone": "016 566 5500",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Sa-Th 06:00-02:00"
   },
   {
     "id": "0876",
@@ -445,7 +500,8 @@
     "city": "",
     "category": "Arab",
     "phone": "0143907744",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 06:00-22:00"
   },
   {
     "id": "0879",
@@ -453,7 +509,8 @@
     "city": "Thuwal",
     "category": "Indian",
     "phone": "+966580368302;+966591931649",
-    "menuUrl": "http://www.spicycuisines-sa.com/"
+    "menuUrl": "http://www.spicycuisines-sa.com/",
+    "hours": ""
   },
   {
     "id": "0933",
@@ -461,7 +518,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966 13 581 0000",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 10:00-00:00"
   },
   {
     "id": "0957",
@@ -469,7 +527,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966135365065",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0971",
@@ -477,7 +536,8 @@
     "city": "",
     "category": "Sandwich",
     "phone": "+966548494892",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "0990",
@@ -485,7 +545,8 @@
     "city": "",
     "category": "Arab",
     "phone": "+966112377711",
-    "menuUrl": "http://www.filfila.sa"
+    "menuUrl": "http://www.filfila.sa",
+    "hours": "Mo-Su 05:00-23:55"
   },
   {
     "id": "1007",
@@ -493,7 +554,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "0175222121",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 12:00-02:00"
   },
   {
     "id": "1027",
@@ -501,7 +563,8 @@
     "city": "",
     "category": "Pizza",
     "phone": "920000910",
-    "menuUrl": "https://pizzahut.me/"
+    "menuUrl": "https://pizzahut.me/",
+    "hours": ""
   },
   {
     "id": "1032",
@@ -509,7 +572,8 @@
     "city": "",
     "category": "Pizza",
     "phone": "9200 17777",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 23:30-11:30"
   },
   {
     "id": "1087",
@@ -517,7 +581,8 @@
     "city": "Mecca",
     "category": "Turkish",
     "phone": "+966 125 456 664",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1089",
@@ -525,7 +590,8 @@
     "city": "",
     "category": "Turkish",
     "phone": "+966 148 223 255",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "12:00-02:00"
   },
   {
     "id": "1090",
@@ -533,7 +599,8 @@
     "city": "",
     "category": "Turkish",
     "phone": "+966 920 023 003",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "13:00-1:30"
   },
   {
     "id": "1092",
@@ -541,7 +608,8 @@
     "city": "",
     "category": "Turkish",
     "phone": "+966 148 466 355",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "11:30 - 2:00"
   },
   {
     "id": "1093",
@@ -549,7 +617,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966 920 005 099",
-    "menuUrl": "https://swisshouse-sa.com/"
+    "menuUrl": "https://swisshouse-sa.com/",
+    "hours": "13:00-01:00"
   },
   {
     "id": "1094",
@@ -557,7 +626,8 @@
     "city": "",
     "category": "Turkish",
     "phone": "+966 148 660 821",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1095",
@@ -565,7 +635,8 @@
     "city": "",
     "category": "Turkish",
     "phone": "+966 550 307 999",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1096",
@@ -573,7 +644,8 @@
     "city": "",
     "category": "Turkish",
     "phone": "+966 594 052 351",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "11:30-00:30"
   },
   {
     "id": "1097",
@@ -581,7 +653,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966 148 290 001",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1098",
@@ -589,7 +662,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966 483 581 85",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1100",
@@ -597,7 +671,8 @@
     "city": "",
     "category": "Japanese",
     "phone": "+966 148 691 766",
-    "menuUrl": "tokushimed.com"
+    "menuUrl": "tokushimed.com",
+    "hours": ""
   },
   {
     "id": "1103",
@@ -605,7 +680,8 @@
     "city": "",
     "category": "Syrian",
     "phone": "+966 125 466 626",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1104",
@@ -613,7 +689,8 @@
     "city": "Makkah",
     "category": "Seafood",
     "phone": "+966 125 656 223",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1105",
@@ -621,7 +698,8 @@
     "city": "",
     "category": "Steak House",
     "phone": "+966 581 857 174",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1107",
@@ -629,7 +707,8 @@
     "city": "",
     "category": "Turkish",
     "phone": "+966 554 003 554 - +966 530 649 488",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "at 10:00"
   },
   {
     "id": "1108",
@@ -637,7 +716,8 @@
     "city": "",
     "category": "Indian",
     "phone": "+966 920 001 771",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "from 13:00"
   },
   {
     "id": "1191",
@@ -645,7 +725,8 @@
     "city": "",
     "category": "Donut",
     "phone": "+9668001288999",
-    "menuUrl": "http://www.dunkindonuts.sa"
+    "menuUrl": "http://www.dunkindonuts.sa",
+    "hours": "24/7"
   },
   {
     "id": "1209",
@@ -653,7 +734,8 @@
     "city": "",
     "category": "Friture",
     "phone": "0138117592",
-    "menuUrl": "https://www.facebook.com/FalafelAmobasil"
+    "menuUrl": "https://www.facebook.com/FalafelAmobasil",
+    "hours": "Mo-Su 05:00-12:00, 15:00-23:55"
   },
   {
     "id": "1247",
@@ -661,7 +743,8 @@
     "city": "",
     "category": "Korean",
     "phone": "+966920007212",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 12:00-24:00"
   },
   {
     "id": "1248",
@@ -669,7 +752,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966566105519",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1264",
@@ -677,7 +761,8 @@
     "city": "",
     "category": "Indian",
     "phone": "+966133635885",
-    "menuUrl": "https://www.cookxon.com/"
+    "menuUrl": "https://www.cookxon.com/",
+    "hours": "Mo-Su 11:00-00:00"
   },
   {
     "id": "1291",
@@ -685,7 +770,8 @@
     "city": "",
     "category": "Pizza",
     "phone": "0148441799",
-    "menuUrl": "https://www.pizzahut-me.com/"
+    "menuUrl": "https://www.pizzahut-me.com/",
+    "hours": "Mo-Su 12:00-01:00"
   },
   {
     "id": "1318",
@@ -693,7 +779,8 @@
     "city": "",
     "category": "Friture",
     "phone": "0596697783",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 15:00-23:00"
   },
   {
     "id": "1337",
@@ -701,7 +788,8 @@
     "city": "",
     "category": "Chinese",
     "phone": "+966 9200 00129",
-    "menuUrl": "https://canton-express.com"
+    "menuUrl": "https://canton-express.com",
+    "hours": "Fr 11:30-23:30; Mo-Th,Sa-Su 11:00-23:30"
   },
   {
     "id": "1365",
@@ -709,7 +797,8 @@
     "city": "",
     "category": "Arab",
     "phone": "6940945",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1387",
@@ -717,7 +806,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966 551 847 530",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1412",
@@ -725,7 +815,8 @@
     "city": "Al Khobar",
     "category": "Burger",
     "phone": "+966920000001",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1418",
@@ -733,7 +824,8 @@
     "city": "",
     "category": "Burger",
     "phone": "+966 165325455",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1420",
@@ -741,7 +833,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966557819214",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1463",
@@ -749,7 +842,8 @@
     "city": "",
     "category": "Indian",
     "phone": "+966112305333",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 00:30-23:00"
   },
   {
     "id": "1467",
@@ -757,7 +851,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966 555 990 545",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1468",
@@ -765,7 +860,8 @@
     "city": "",
     "category": "Seafood",
     "phone": "+966 547 149 428",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1469",
@@ -773,7 +869,8 @@
     "city": "",
     "category": "Syrian",
     "phone": "+966 507 272 058",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1470",
@@ -781,7 +878,8 @@
     "city": "",
     "category": "Pizza",
     "phone": "+966 125 979 986",
-    "menuUrl": "https://www.dominos.sa/"
+    "menuUrl": "https://www.dominos.sa/",
+    "hours": ""
   },
   {
     "id": "1484",
@@ -789,7 +887,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966 568 066 806",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1487",
@@ -797,7 +896,8 @@
     "city": "",
     "category": "Chinese",
     "phone": "+966 148 661 116",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1488",
@@ -805,7 +905,8 @@
     "city": "",
     "category": "Chinese",
     "phone": "+966 550 144 114",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1489",
@@ -813,7 +914,8 @@
     "city": "",
     "category": "Syrian",
     "phone": "+966 148 461 800",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1490",
@@ -821,7 +923,8 @@
     "city": "",
     "category": "Pizza",
     "phone": "+966 920 012 345",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1491",
@@ -829,7 +932,8 @@
     "city": "",
     "category": "Lebanese",
     "phone": "+966 148 455 100",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1492",
@@ -837,7 +941,8 @@
     "city": "",
     "category": "Sushi",
     "phone": "+966 595 959 715",
-    "menuUrl": "https://www.sushisecret.com"
+    "menuUrl": "https://www.sushisecret.com",
+    "hours": ""
   },
   {
     "id": "1494",
@@ -845,7 +950,8 @@
     "city": "",
     "category": "Chinese",
     "phone": "+966 920 007 741;+966 920 033 371",
-    "menuUrl": "https://baytoti.net/"
+    "menuUrl": "https://baytoti.net/",
+    "hours": ""
   },
   {
     "id": "1495",
@@ -853,7 +959,8 @@
     "city": "",
     "category": "China",
     "phone": "+966 125 285 535",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1497",
@@ -861,7 +968,8 @@
     "city": "",
     "category": "Asian",
     "phone": "+966 125 307 116",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1499",
@@ -869,7 +977,8 @@
     "city": "",
     "category": "Chinese",
     "phone": "+966 501 826 688",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1500",
@@ -877,7 +986,8 @@
     "city": "",
     "category": "Asian",
     "phone": "+966 550 811 474",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1501",
@@ -885,7 +995,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966 550 110 104",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1503",
@@ -893,7 +1004,8 @@
     "city": "Medina",
     "category": "Italian",
     "phone": "+9668484448",
-    "menuUrl": "https://davantilounge.com/"
+    "menuUrl": "https://davantilounge.com/",
+    "hours": "Su-Fr 13:00-24:00"
   },
   {
     "id": "1505",
@@ -901,7 +1013,8 @@
     "city": "",
     "category": "Turkish",
     "phone": "+966 148 271 699",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1509",
@@ -909,7 +1022,8 @@
     "city": "",
     "category": "Egyptian",
     "phone": "+966 542 198 155",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1511",
@@ -917,7 +1031,8 @@
     "city": "",
     "category": "Egyptian",
     "phone": "+966148288843",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1519",
@@ -925,7 +1040,8 @@
     "city": "Riyadh",
     "category": "Italian",
     "phone": "+966114543300",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Sa-Th 16:00-24:00; Fr 15:00-23:30"
   },
   {
     "id": "1541",
@@ -933,7 +1049,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966 125 714 444",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1545",
@@ -941,7 +1058,8 @@
     "city": "",
     "category": "Indonesian",
     "phone": "+966 562 927 374",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1609",
@@ -949,7 +1067,8 @@
     "city": "",
     "category": "Turkish",
     "phone": "+966559838161",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1646",
@@ -957,7 +1076,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "0126828299",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1650",
@@ -965,7 +1085,8 @@
     "city": "",
     "category": "Kebab",
     "phone": "00966508829899",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 13:00-02:00"
   },
   {
     "id": "1651",
@@ -973,7 +1094,8 @@
     "city": "",
     "category": "Turkish",
     "phone": "00966508829899",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 13:00-02:00"
   },
   {
     "id": "1652",
@@ -981,7 +1103,8 @@
     "city": "Jeddah",
     "category": "Shawarma",
     "phone": "+966530300324",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 07:00-04:00"
   },
   {
     "id": "1733",
@@ -989,7 +1112,8 @@
     "city": "Jeddah",
     "category": "Indonesian",
     "phone": "+966530770002",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 13:00-00:00"
   },
   {
     "id": "1735",
@@ -997,7 +1121,8 @@
     "city": "Jeddah",
     "category": "Middle Eastern",
     "phone": "+966550108444",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "1766",
@@ -1005,7 +1130,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966 13 854 3395",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 12:00-00:00"
   },
   {
     "id": "1791",
@@ -1013,7 +1139,8 @@
     "city": "",
     "category": "Fish",
     "phone": "+966 562 207 074",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1802",
@@ -1021,7 +1148,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "0552887492",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1805",
@@ -1029,7 +1157,8 @@
     "city": "",
     "category": "Turkish",
     "phone": "+966 593 704 891",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1849",
@@ -1037,7 +1166,8 @@
     "city": "Riyadh",
     "category": "Pizza",
     "phone": "920012345",
-    "menuUrl": "https://www.dominos.sa/"
+    "menuUrl": "https://www.dominos.sa/",
+    "hours": "Sa-Th 10:30-02:00, Fr 12:00-02:00"
   },
   {
     "id": "1855",
@@ -1045,7 +1175,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "00966554462162",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1864",
@@ -1053,7 +1184,8 @@
     "city": "",
     "category": "Turkish",
     "phone": "+966 4 822 9205",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1907",
@@ -1061,7 +1193,8 @@
     "city": "mecca",
     "category": "Turkish",
     "phone": "+966 566 7941",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "1937",
@@ -1069,7 +1202,8 @@
     "city": "",
     "category": "Arab",
     "phone": "+966 9200 02149",
-    "menuUrl": "https://restaurant-46764.business.site/"
+    "menuUrl": "https://restaurant-46764.business.site/",
+    "hours": "Mo-Su 06:00-01:00"
   },
   {
     "id": "1972",
@@ -1077,7 +1211,8 @@
     "city": "jeddah",
     "category": "Hotel",
     "phone": "+966551009300",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "1980",
@@ -1085,7 +1220,8 @@
     "city": "",
     "category": "Fast Food",
     "phone": "+966 54 092 4378",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2000",
@@ -1093,7 +1229,8 @@
     "city": "بريدة",
     "category": "كباب",
     "phone": "920018828",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2002",
@@ -1101,7 +1238,8 @@
     "city": "بريدة",
     "category": "كباب",
     "phone": "+966163266060",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2003",
@@ -1109,7 +1247,8 @@
     "city": "بريدة",
     "category": "Pizza",
     "phone": "+966163816633",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2004",
@@ -1117,7 +1256,8 @@
     "city": "بريدة",
     "category": "Burger",
     "phone": "+966532220638",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2005",
@@ -1125,7 +1265,8 @@
     "city": "بريدة",
     "category": "Kebab",
     "phone": "+966163857771",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "12:45-01:00"
   },
   {
     "id": "2006",
@@ -1133,7 +1274,8 @@
     "city": "بريدة",
     "category": "كباب",
     "phone": "+9668006100002",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2007",
@@ -1141,7 +1283,8 @@
     "city": "بريدة",
     "category": "رز شعبي",
     "phone": "+966552541100",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "12:00-00:00"
   },
   {
     "id": "2010",
@@ -1149,7 +1292,8 @@
     "city": "بريدة",
     "category": "Steak House",
     "phone": "+966163242315",
-    "menuUrl": "https://applebeesksa.com"
+    "menuUrl": "https://applebeesksa.com",
+    "hours": "11:00-02:00"
   },
   {
     "id": "2011",
@@ -1157,7 +1301,8 @@
     "city": "بريدة",
     "category": "Burger",
     "phone": "+966163245511",
-    "menuUrl": "https://tscsignature.com"
+    "menuUrl": "https://tscsignature.com",
+    "hours": "12:45-00:00"
   },
   {
     "id": "2012",
@@ -1165,7 +1310,8 @@
     "city": "بريدة",
     "category": "Kebab",
     "phone": "+966163823487",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "16:00-02:00"
   },
   {
     "id": "2013",
@@ -1173,7 +1319,8 @@
     "city": "بريدة",
     "category": "روست",
     "phone": "+966163833070",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "16:00-02:00"
   },
   {
     "id": "2014",
@@ -1181,7 +1328,8 @@
     "city": "بريدة",
     "category": "روست",
     "phone": "+966163811720",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "16:00-02:00"
   },
   {
     "id": "2015",
@@ -1189,7 +1337,8 @@
     "city": "بريدة",
     "category": "بيتزا",
     "phone": "+966163839955",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "16:00-02:00"
   },
   {
     "id": "2016",
@@ -1197,7 +1346,8 @@
     "city": "بريدة",
     "category": "بيتزا",
     "phone": "+966163820999",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "16:00-02:00"
   },
   {
     "id": "2115",
@@ -1205,7 +1355,8 @@
     "city": "",
     "category": "Pizza",
     "phone": "059 988 0704",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2126",
@@ -1213,7 +1364,8 @@
     "city": "Medina",
     "category": "Cafe",
     "phone": "058 049 4013",
-    "menuUrl": "https://cafewoodsa.business.site/"
+    "menuUrl": "https://cafewoodsa.business.site/",
+    "hours": ""
   },
   {
     "id": "2159",
@@ -1221,7 +1373,8 @@
     "city": "",
     "category": "Pakistani",
     "phone": "+966 12 54 333 37",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2161",
@@ -1229,7 +1382,8 @@
     "city": "",
     "category": "Turkish",
     "phone": "+966 508 661 242",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2176",
@@ -1237,7 +1391,8 @@
     "city": "anak",
     "category": "Kebab",
     "phone": "+966580350020",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "2245",
@@ -1245,7 +1400,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "0550149303",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "2340",
@@ -1253,7 +1409,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "013 373 1664",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2433",
@@ -1261,7 +1418,8 @@
     "city": "عين البراحة",
     "category": "Restaurant",
     "phone": "050 908 0170",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 07:00-18:00"
   },
   {
     "id": "2464",
@@ -1269,7 +1427,8 @@
     "city": "الدائر",
     "category": "Arab",
     "phone": "966558418944",
-    "menuUrl": "https://www.instagram.com/jawharat_addayer/"
+    "menuUrl": "https://www.instagram.com/jawharat_addayer/",
+    "hours": ""
   },
   {
     "id": "2466",
@@ -1277,7 +1436,8 @@
     "city": "buraydah",
     "category": "American",
     "phone": "00966570071999",
-    "menuUrl": "meatybuns.net"
+    "menuUrl": "meatybuns.net",
+    "hours": "12:00-19:00"
   },
   {
     "id": "2480",
@@ -1285,7 +1445,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "+ 00966579592090",
-    "menuUrl": "https://www.instagram.com/fabrica_sa/"
+    "menuUrl": "https://www.instagram.com/fabrica_sa/",
+    "hours": "Sa-Th 07:00-12:00,16:00-23:00; Fr 13:00-23:00"
   },
   {
     "id": "2483",
@@ -1293,7 +1454,8 @@
     "city": "jubail ic",
     "category": "Burger",
     "phone": "+966593705070",
-    "menuUrl": "https://doubleisa.com/"
+    "menuUrl": "https://doubleisa.com/",
+    "hours": "Mo-Su 07:00-02:00"
   },
   {
     "id": "2485",
@@ -1301,7 +1463,8 @@
     "city": "Riyadh",
     "category": "Japanese",
     "phone": "+966114993330",
-    "menuUrl": "https://goldsushiclub.com/"
+    "menuUrl": "https://goldsushiclub.com/",
+    "hours": "Mo-Su 13:00-01:00"
   },
   {
     "id": "2565",
@@ -1309,7 +1472,8 @@
     "city": "Khobar",
     "category": "Coffee",
     "phone": "+966560900747",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "2701",
@@ -1317,7 +1481,8 @@
     "city": "Jeddah",
     "category": "Sandwich",
     "phone": "+966570002129",
-    "menuUrl": "https://www.subject.house/"
+    "menuUrl": "https://www.subject.house/",
+    "hours": "Mo-Sa 08:00-01:00"
   },
   {
     "id": "2715",
@@ -1325,7 +1490,8 @@
     "city": "Medina",
     "category": "Burger",
     "phone": "+966508141081",
-    "menuUrl": "http://www.hwichgroup.com/"
+    "menuUrl": "http://www.hwichgroup.com/",
+    "hours": "Mo-Fr 07:00-01:30"
   },
   {
     "id": "2716",
@@ -1333,7 +1499,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "0565889887",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2717",
@@ -1341,7 +1508,8 @@
     "city": "مكة",
     "category": "Fast Food",
     "phone": "+966 56 915 8041",
-    "menuUrl": "https://www.ptatahouse.com"
+    "menuUrl": "https://www.ptatahouse.com",
+    "hours": "Mo-Su 13:00-03:00"
   },
   {
     "id": "2718",
@@ -1349,7 +1517,8 @@
     "city": "",
     "category": "Brekafast",
     "phone": "+966550213475",
-    "menuUrl": "https://www.instagram.com/tropiq.sa/"
+    "menuUrl": "https://www.instagram.com/tropiq.sa/",
+    "hours": "Mo-Su 08:00-23:59"
   },
   {
     "id": "2719",
@@ -1357,7 +1526,8 @@
     "city": "buraydah",
     "category": "Shawarma",
     "phone": "0501370233",
-    "menuUrl": "https://www.tashweha.com/"
+    "menuUrl": "https://www.tashweha.com/",
+    "hours": "Mo-Su 016:00-22:00"
   },
   {
     "id": "2726",
@@ -1365,7 +1535,8 @@
     "city": "الرياض",
     "category": "Seafood",
     "phone": "0590909192",
-    "menuUrl": "https://www.instagram.com/delmar.ksa/"
+    "menuUrl": "https://www.instagram.com/delmar.ksa/",
+    "hours": "Sa-Fr 12:00-00:00"
   },
   {
     "id": "2727",
@@ -1373,7 +1544,8 @@
     "city": "Hofuf",
     "category": "Shawarma",
     "phone": "+135800552",
-    "menuUrl": "https://sawafrestaurant.com/"
+    "menuUrl": "https://sawafrestaurant.com/",
+    "hours": "Mo-Su 12:00-01:00"
   },
   {
     "id": "2730",
@@ -1381,7 +1553,8 @@
     "city": "تربة",
     "category": "شاورما فلافل",
     "phone": "0533556722",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Sa 08:00-18:00"
   },
   {
     "id": "2731",
@@ -1389,7 +1562,8 @@
     "city": "النماص",
     "category": "Coffee Shop",
     "phone": "+966530779918",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "2734",
@@ -1397,7 +1571,8 @@
     "city": "",
     "category": "Burger",
     "phone": "+96611 292 0005",
-    "menuUrl": "https://burgerfuel.com"
+    "menuUrl": "https://burgerfuel.com",
+    "hours": ""
   },
   {
     "id": "2750",
@@ -1405,7 +1580,8 @@
     "city": "",
     "category": "Hummus",
     "phone": "+966500115135",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2751",
@@ -1413,7 +1589,8 @@
     "city": "",
     "category": "Arab",
     "phone": "0566111209",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2754",
@@ -1421,7 +1598,8 @@
     "city": "جدة",
     "category": "Steak House",
     "phone": "+966545895555",
-    "menuUrl": "https://loadedme.com/"
+    "menuUrl": "https://loadedme.com/",
+    "hours": "07:00-01:00"
   },
   {
     "id": "2755",
@@ -1429,7 +1607,8 @@
     "city": "الرياض",
     "category": "Donut",
     "phone": "+966539344910",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "06:00-24:00"
   },
   {
     "id": "2757",
@@ -1437,7 +1616,8 @@
     "city": "alkhafji",
     "category": "Regional",
     "phone": "0505556526",
-    "menuUrl": "https://flafilpie.com/"
+    "menuUrl": "https://flafilpie.com/",
+    "hours": "24/7"
   },
   {
     "id": "2761",
@@ -1445,7 +1625,8 @@
     "city": "الرياض",
     "category": "Juice",
     "phone": "0562096888",
-    "menuUrl": "https://instagram.com/@fruitart.w"
+    "menuUrl": "https://instagram.com/@fruitart.w",
+    "hours": ""
   },
   {
     "id": "2762",
@@ -1453,7 +1634,8 @@
     "city": "taif",
     "category": "Coffee Shop",
     "phone": "+966501406556",
-    "menuUrl": "https://sites.google.com/view/logiccafe"
+    "menuUrl": "https://sites.google.com/view/logiccafe",
+    "hours": "Mo-Su 16:00-00:00"
   },
   {
     "id": "2763",
@@ -1461,7 +1643,8 @@
     "city": "RAMAH",
     "category": "Cake",
     "phone": "+966506223993",
-    "menuUrl": "https://coffee-shop-6247.business.site"
+    "menuUrl": "https://coffee-shop-6247.business.site",
+    "hours": "24/7"
   },
   {
     "id": "2765",
@@ -1469,7 +1652,8 @@
     "city": "jeddah",
     "category": "Cake",
     "phone": "+966555681956",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 10:00-22:00"
   },
   {
     "id": "2771",
@@ -1477,7 +1661,8 @@
     "city": "بريدة",
     "category": "Coffee Shop",
     "phone": "+966535644465",
-    "menuUrl": "https://vanhouttebur.business.site/"
+    "menuUrl": "https://vanhouttebur.business.site/",
+    "hours": ""
   },
   {
     "id": "2775",
@@ -1485,7 +1670,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "+966548030353",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 16:00-00:00"
   },
   {
     "id": "2776",
@@ -1493,7 +1679,8 @@
     "city": "",
     "category": "Tea",
     "phone": "+966549372200",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "2779",
@@ -1501,7 +1688,8 @@
     "city": "بريدة",
     "category": "Coffee Shop",
     "phone": "+966505510580",
-    "menuUrl": "https://www.80plus.sa/"
+    "menuUrl": "https://www.80plus.sa/",
+    "hours": ""
   },
   {
     "id": "2780",
@@ -1509,7 +1697,8 @@
     "city": "Al Mubarraz",
     "category": "Coffee Shop",
     "phone": "+966530880188",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2781",
@@ -1517,7 +1706,8 @@
     "city": "JEDDAH",
     "category": "Coffee Shop",
     "phone": "+966 550747072",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 07:00-00:00"
   },
   {
     "id": "2783",
@@ -1525,7 +1715,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "+966 50 679 5999",
-    "menuUrl": "https://ww.chemistrycoffeesa.com"
+    "menuUrl": "https://ww.chemistrycoffeesa.com",
+    "hours": ""
   },
   {
     "id": "2797",
@@ -1533,7 +1724,8 @@
     "city": "Al Khobar",
     "category": "Kebab",
     "phone": "+966138333123",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2798",
@@ -1541,7 +1733,8 @@
     "city": "Al Khobar",
     "category": "Cafe",
     "phone": "+9660138303777",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2799",
@@ -1549,7 +1742,8 @@
     "city": "Al Khobar",
     "category": "Pastry",
     "phone": "+966138031111",
-    "menuUrl": "https://www.sendebad.com/"
+    "menuUrl": "https://www.sendebad.com/",
+    "hours": ""
   },
   {
     "id": "2802",
@@ -1557,7 +1751,8 @@
     "city": "Al Khobar",
     "category": "Grill",
     "phone": "+966920006396",
-    "menuUrl": "https://www.ennabigrill.com/"
+    "menuUrl": "https://www.ennabigrill.com/",
+    "hours": ""
   },
   {
     "id": "2803",
@@ -1565,7 +1760,8 @@
     "city": "Al Khobar",
     "category": "Restaurant",
     "phone": "+966138334400",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2804",
@@ -1573,7 +1769,8 @@
     "city": "Al Khobar",
     "category": "Restaurant",
     "phone": "+966920020608",
-    "menuUrl": "https://www.alfrej.net/"
+    "menuUrl": "https://www.alfrej.net/",
+    "hours": ""
   },
   {
     "id": "2805",
@@ -1581,7 +1778,8 @@
     "city": "",
     "category": "Asian",
     "phone": "+966 9200 04271",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2807",
@@ -1589,7 +1787,8 @@
     "city": "Dammam",
     "category": "Burger",
     "phone": "+966920000002",
-    "menuUrl": "https://ksa.burgerking.me/en/"
+    "menuUrl": "https://ksa.burgerking.me/en/",
+    "hours": ""
   },
   {
     "id": "2812",
@@ -1597,7 +1796,8 @@
     "city": "Makkah",
     "category": "Coffee Shop",
     "phone": "+966556601744",
-    "menuUrl": "www.iawakecafe.com"
+    "menuUrl": "www.iawakecafe.com",
+    "hours": "Mo-Su 07:00-01:00"
   },
   {
     "id": "2813",
@@ -1605,7 +1805,8 @@
     "city": "Dammam",
     "category": "Chicken",
     "phone": "+966920021111",
-    "menuUrl": "https://www.kfc.sa/"
+    "menuUrl": "https://www.kfc.sa/",
+    "hours": ""
   },
   {
     "id": "2814",
@@ -1613,7 +1814,8 @@
     "city": "Al Khobar",
     "category": "Shawarma",
     "phone": "+966920008080",
-    "menuUrl": "https://shawarmer.com/"
+    "menuUrl": "https://shawarmer.com/",
+    "hours": ""
   },
   {
     "id": "2818",
@@ -1621,7 +1823,8 @@
     "city": "Al Khobar",
     "category": "Pizza",
     "phone": "+966920000910",
-    "menuUrl": "https://www.pizzahut.com.sa/"
+    "menuUrl": "https://www.pizzahut.com.sa/",
+    "hours": ""
   },
   {
     "id": "2824",
@@ -1629,7 +1832,8 @@
     "city": "Al Taraf",
     "category": "Yemeni",
     "phone": "+966551909953",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Su-Sa 06:00-15:00,18:00-23:00"
   },
   {
     "id": "2825",
@@ -1637,7 +1841,8 @@
     "city": "Al Taraf",
     "category": "Pizza",
     "phone": "0540940584",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Sa 16:00-24:00"
   },
   {
     "id": "2826",
@@ -1645,7 +1850,8 @@
     "city": "Taraf",
     "category": "Kebab",
     "phone": "0598270019",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 16:00-00:00"
   },
   {
     "id": "2827",
@@ -1653,7 +1859,8 @@
     "city": "hofuf",
     "category": "Trukish",
     "phone": "0564279633",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 16:00-00:00"
   },
   {
     "id": "2829",
@@ -1661,7 +1868,8 @@
     "city": "صفوى",
     "category": "Dessert",
     "phone": "+966553581010",
-    "menuUrl": "https://kottouf.net/"
+    "menuUrl": "https://kottouf.net/",
+    "hours": "Mo-Su 09:00-01:00"
   },
   {
     "id": "2830",
@@ -1669,7 +1877,8 @@
     "city": "safwa",
     "category": "Seafood",
     "phone": "+966544139964",
-    "menuUrl": "https://alamalbahriat.com/"
+    "menuUrl": "https://alamalbahriat.com/",
+    "hours": ""
   },
   {
     "id": "2831",
@@ -1677,7 +1886,8 @@
     "city": "safwa",
     "category": "Fast Food",
     "phone": "+966136632332",
-    "menuUrl": "https://instagram.com/alsiiraj"
+    "menuUrl": "https://instagram.com/alsiiraj",
+    "hours": "Mo-Su 18:00-02:00"
   },
   {
     "id": "2833",
@@ -1685,7 +1895,8 @@
     "city": "safwa",
     "category": "Italian",
     "phone": "+966136633222",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 11:30-00:00"
   },
   {
     "id": "2834",
@@ -1693,7 +1904,8 @@
     "city": "safwa",
     "category": "Coffee Shop",
     "phone": "+966576733709",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 06:30-00:00"
   },
   {
     "id": "2835",
@@ -1701,7 +1913,8 @@
     "city": "صفوى",
     "category": "Chicken",
     "phone": "+966920021111",
-    "menuUrl": "http://kfc.sa/"
+    "menuUrl": "http://kfc.sa/",
+    "hours": "Mo-Su 10:00-02:30"
   },
   {
     "id": "2836",
@@ -1709,7 +1922,8 @@
     "city": "صفوى",
     "category": "Restaurant",
     "phone": "+966594832273",
-    "menuUrl": "https://confectionery-1507.business.site/?m=true"
+    "menuUrl": "https://confectionery-1507.business.site/?m=true",
+    "hours": "Mo-Su 12:00-00:00"
   },
   {
     "id": "2837",
@@ -1717,7 +1931,8 @@
     "city": "صفوى",
     "category": "Restaurant",
     "phone": "+966507339773",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2838",
@@ -1725,7 +1940,8 @@
     "city": "صفوى",
     "category": "Coffee Shop",
     "phone": "+966136630230",
-    "menuUrl": "https://www.instagram.com/sals_caffe/"
+    "menuUrl": "https://www.instagram.com/sals_caffe/",
+    "hours": "Mo-Su 06:30-11:30"
   },
   {
     "id": "2839",
@@ -1733,7 +1949,8 @@
     "city": "صفوى",
     "category": "Restaurant",
     "phone": "+966565133338",
-    "menuUrl": "https://instagram.com/abu_mustafa2017"
+    "menuUrl": "https://instagram.com/abu_mustafa2017",
+    "hours": "Mo-Su 17:00-00:00"
   },
   {
     "id": "2840",
@@ -1741,7 +1958,8 @@
     "city": "صفوى",
     "category": "Restaurant",
     "phone": "+966136631236",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 18:00-00:00"
   },
   {
     "id": "2841",
@@ -1749,7 +1967,8 @@
     "city": "صفوى",
     "category": "Restaurant",
     "phone": "+966136640991",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2842",
@@ -1757,7 +1976,8 @@
     "city": "صفوى",
     "category": "Restaurant",
     "phone": "+966136646166",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 18:00-00:00"
   },
   {
     "id": "2844",
@@ -1765,7 +1985,8 @@
     "city": "kharj",
     "category": "Juice",
     "phone": "+966555878141",
-    "menuUrl": "https://www.aseernp.com/happyMix/mobile/index.html"
+    "menuUrl": "https://www.aseernp.com/happyMix/mobile/index.html",
+    "hours": "Mo-Su 13:00-00:00"
   },
   {
     "id": "2845",
@@ -1773,7 +1994,8 @@
     "city": "Al Hofuf",
     "category": "Sandwich",
     "phone": "+966598202228",
-    "menuUrl": "https://fantaq.net/"
+    "menuUrl": "https://fantaq.net/",
+    "hours": "Mo-Su 15:00-24:00"
   },
   {
     "id": "2846",
@@ -1781,7 +2003,8 @@
     "city": "خميس مشيط",
     "category": "Pizza",
     "phone": "+966 53 500 1834",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "2847",
@@ -1789,7 +2012,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "+966126553360",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2860",
@@ -1797,7 +2021,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "+966532020060",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 07:30-23:30"
   },
   {
     "id": "2867",
@@ -1805,7 +2030,8 @@
     "city": "jeddah",
     "category": "Burger",
     "phone": "+966530850232",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Sa-Th 13:00-01:00"
   },
   {
     "id": "2868",
@@ -1813,7 +2039,8 @@
     "city": "jeddah",
     "category": "Pizza",
     "phone": "+966542330675",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Sa-We 11:00-02:00, Th,Fr 11:00-03:00"
   },
   {
     "id": "2900",
@@ -1821,7 +2048,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "0122563285",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 06:00-00:15"
   },
   {
     "id": "2901",
@@ -1829,7 +2057,8 @@
     "city": "",
     "category": "Sandwich",
     "phone": "+966135952752",
-    "menuUrl": "https://drive.google.com/file/d/10XuskGJr5MnWzbxNq14PiWjqgNjAZWvm/view"
+    "menuUrl": "https://drive.google.com/file/d/10XuskGJr5MnWzbxNq14PiWjqgNjAZWvm/view",
+    "hours": "Mo-Sa 17:00-01:00"
   },
   {
     "id": "2904",
@@ -1837,7 +2066,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966531360625",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 05:00-09:00,16:00-23:00"
   },
   {
     "id": "2905",
@@ -1845,7 +2075,8 @@
     "city": "",
     "category": "Coffee Shop",
     "phone": "+966126065885",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 06:30-00:30"
   },
   {
     "id": "2907",
@@ -1853,7 +2084,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966135999050",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "PH,Mo-Su 05:00-14:00+"
   },
   {
     "id": "2908",
@@ -1861,7 +2093,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966537664184",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 11:00-14:00+"
   },
   {
     "id": "2910",
@@ -1869,7 +2102,8 @@
     "city": "",
     "category": "Arab",
     "phone": "+966503900378",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2911",
@@ -1877,7 +2111,8 @@
     "city": "سبت العلاية",
     "category": "Coffee Shop",
     "phone": "+966531356323",
-    "menuUrl": "https://foursquare.com/v/kaf-coffee/5fb50a58b6ee25619fabb8c9"
+    "menuUrl": "https://foursquare.com/v/kaf-coffee/5fb50a58b6ee25619fabb8c9",
+    "hours": "24/7"
   },
   {
     "id": "2918",
@@ -1885,7 +2120,8 @@
     "city": "Riyadh",
     "category": "Cafe",
     "phone": "0114161747",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2935",
@@ -1893,7 +2129,8 @@
     "city": "",
     "category": "Coffee Shop",
     "phone": "+966920006843",
-    "menuUrl": "https://barns.com.sa/"
+    "menuUrl": "https://barns.com.sa/",
+    "hours": "24/7"
   },
   {
     "id": "2937",
@@ -1901,7 +2138,8 @@
     "city": "Riyadh",
     "category": "Coffee Shop",
     "phone": "0566643371",
-    "menuUrl": "https://www.instagram.com/troe.2/"
+    "menuUrl": "https://www.instagram.com/troe.2/",
+    "hours": "24/7"
   },
   {
     "id": "2939",
@@ -1909,7 +2147,8 @@
     "city": "Al khobar",
     "category": "Restaurant",
     "phone": "+966138177787",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "2941",
@@ -1917,7 +2156,8 @@
     "city": "jeddah",
     "category": "Coffee Shop",
     "phone": "+966541124962",
-    "menuUrl": "https://hemi.coffee/"
+    "menuUrl": "https://hemi.coffee/",
+    "hours": "Sa-Mo 06:30-01:00; Fr 13:00-01:00"
   },
   {
     "id": "2942",
@@ -1925,7 +2165,8 @@
     "city": "7591 شارع عبد الله بن العباس، الشوقية، مكة 24351 3283، المملكة العربية السعودية",
     "category": "Restaurant",
     "phone": "00966541477928",
-    "menuUrl": "https://myhealthymylife.com/"
+    "menuUrl": "https://myhealthymylife.com/",
+    "hours": "Mo-Su 11:00-01:00"
   },
   {
     "id": "2943",
@@ -1933,7 +2174,8 @@
     "city": "الرياض",
     "category": "Coffee Shop",
     "phone": "+966549980702",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 09:00-21:00"
   },
   {
     "id": "2953",
@@ -1941,7 +2183,8 @@
     "city": "المدينة المنورة",
     "category": "Coffee Shop",
     "phone": "+966563416068",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "2956",
@@ -1949,7 +2192,8 @@
     "city": "riydah",
     "category": "International",
     "phone": "+966559898588",
-    "menuUrl": "https://www.topkapirest.com/"
+    "menuUrl": "https://www.topkapirest.com/",
+    "hours": ""
   },
   {
     "id": "2958",
@@ -1957,7 +2201,8 @@
     "city": "Jeddah",
     "category": "Coffee Shop",
     "phone": "+966569892042",
-    "menuUrl": "https://instagram.com/fiftygramsa"
+    "menuUrl": "https://instagram.com/fiftygramsa",
+    "hours": "sa-fr 08:00-02:00"
   },
   {
     "id": "2959",
@@ -1965,7 +2210,8 @@
     "city": "الطائف",
     "category": "Coffee Shop",
     "phone": "0565611561",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "2960",
@@ -1973,7 +2219,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "+966568568031",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2962",
@@ -1981,7 +2228,8 @@
     "city": "الحمراء،مكةالمكرمة",
     "category": "Coffee Shop",
     "phone": "+966544520315",
-    "menuUrl": "https://instagram.com/las_q21?utm_medium=copy_link"
+    "menuUrl": "https://instagram.com/las_q21?utm_medium=copy_link",
+    "hours": "Mo-Su 08:00-23:00"
   },
   {
     "id": "2963",
@@ -1989,7 +2237,8 @@
     "city": "Jeddah",
     "category": "International",
     "phone": "+966504706590",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Sa-We 17:00-01:00; Th-Fr 17:00-02:00"
   },
   {
     "id": "2967",
@@ -1997,7 +2246,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966 55 058 6680",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 06:00-01:00"
   },
   {
     "id": "2968",
@@ -2005,7 +2255,8 @@
     "city": "Khobar",
     "category": "Mexican",
     "phone": "+966531008226",
-    "menuUrl": "https://www.instagram.com/eltacoria/"
+    "menuUrl": "https://www.instagram.com/eltacoria/",
+    "hours": "Su-We 18:00-23:00"
   },
   {
     "id": "2972",
@@ -2013,7 +2264,8 @@
     "city": "riyadh",
     "category": "Coffee Shop",
     "phone": "+9668001228222",
-    "menuUrl": "https://corecoffee.co/"
+    "menuUrl": "https://corecoffee.co/",
+    "hours": "Mo-Su 06:00-23:59"
   },
   {
     "id": "2973",
@@ -2021,7 +2273,8 @@
     "city": "Riyadh",
     "category": "Coffee Shop",
     "phone": "+9668001228222",
-    "menuUrl": "https://corecoffee.co/"
+    "menuUrl": "https://corecoffee.co/",
+    "hours": "Mo-Su 6:00-23:59"
   },
   {
     "id": "2974",
@@ -2029,7 +2282,8 @@
     "city": "dammam",
     "category": "Coffee Shop",
     "phone": "+9668001228222",
-    "menuUrl": "https://corecoffee.co/"
+    "menuUrl": "https://corecoffee.co/",
+    "hours": "Mo-Su 06:00-11:59"
   },
   {
     "id": "2976",
@@ -2037,7 +2291,8 @@
     "city": "",
     "category": "Food Court",
     "phone": "+966 9200 00658",
-    "menuUrl": "https://ajdan.com.sa/"
+    "menuUrl": "https://ajdan.com.sa/",
+    "hours": ""
   },
   {
     "id": "2977",
@@ -2045,7 +2300,8 @@
     "city": "Al Khobar",
     "category": "Asian",
     "phone": "+966138928725",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2980",
@@ -2053,7 +2309,8 @@
     "city": "Alkurnaish",
     "category": "American",
     "phone": "+966920024788",
-    "menuUrl": "https://indpt.com/"
+    "menuUrl": "https://indpt.com/",
+    "hours": ""
   },
   {
     "id": "2983",
@@ -2061,7 +2318,8 @@
     "city": "شرورة",
     "category": "Coffee Shop",
     "phone": "+966508991322",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "2984",
@@ -2069,7 +2327,8 @@
     "city": "الرياض",
     "category": "Cake",
     "phone": "+966599994701",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "2986",
@@ -2077,7 +2336,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "0591208779",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2990",
@@ -2085,7 +2345,8 @@
     "city": "Al Khobar",
     "category": "Coffee Shop",
     "phone": "+966533350708",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "2991",
@@ -2093,7 +2354,8 @@
     "city": "Jeddah",
     "category": "Seafood",
     "phone": "+9665330000985",
-    "menuUrl": "Amonabil.Business.Site"
+    "menuUrl": "Amonabil.Business.Site",
+    "hours": "24/7"
   },
   {
     "id": "2993",
@@ -2101,7 +2363,8 @@
     "city": "Jubail",
     "category": "Kebab",
     "phone": "+966539383280",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 13:00-24:00"
   },
   {
     "id": "2995",
@@ -2109,7 +2372,8 @@
     "city": "الخبر",
     "category": "Cafe",
     "phone": "+966532656908",
-    "menuUrl": "https://wholebeansa.com/"
+    "menuUrl": "https://wholebeansa.com/",
+    "hours": "Mo-Su 15:30-22:30"
   },
   {
     "id": "2998",
@@ -2117,7 +2381,8 @@
     "city": "Dammam",
     "category": "Coffee Shop",
     "phone": "966550444171",
-    "menuUrl": "https://umqcoffee.com/"
+    "menuUrl": "https://umqcoffee.com/",
+    "hours": "Su-We 06:00-23:00; Th 06:00-23:59; Sa 09:00-23:00"
   },
   {
     "id": "2999",
@@ -2125,7 +2390,8 @@
     "city": "kamis Mushaitq",
     "category": "Pizza",
     "phone": "+966 507946666",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Sa 13:00-01:00"
   },
   {
     "id": "3000",
@@ -2133,7 +2399,8 @@
     "city": "Alkhobar",
     "category": "Coffee Shop",
     "phone": "+966534808001",
-    "menuUrl": "https://ivycafe.sa/"
+    "menuUrl": "https://ivycafe.sa/",
+    "hours": "24/7"
   },
   {
     "id": "3004",
@@ -2141,7 +2408,8 @@
     "city": "Jeddah",
     "category": "Chinese",
     "phone": "+966 12 696 8888",
-    "menuUrl": "https://www.shangpalaceksa.com/"
+    "menuUrl": "https://www.shangpalaceksa.com/",
+    "hours": "Mo-Su 16:00-01:00"
   },
   {
     "id": "3005",
@@ -2149,7 +2417,8 @@
     "city": "Jeddah",
     "category": "Cafe",
     "phone": "+966 12 696 8888",
-    "menuUrl": "https://www.copajeddah.com/"
+    "menuUrl": "https://www.copajeddah.com/",
+    "hours": "Daily 9:00 AM - 2:00 AM"
   },
   {
     "id": "3015",
@@ -2157,7 +2426,8 @@
     "city": "صبيا",
     "category": "Cafe",
     "phone": "+966551179399",
-    "menuUrl": "https://solo.to/coffee80.sa"
+    "menuUrl": "https://solo.to/coffee80.sa",
+    "hours": "24/7"
   },
   {
     "id": "3028",
@@ -2165,7 +2435,8 @@
     "city": "تبوك",
     "category": "Pancake",
     "phone": "+966501620700",
-    "menuUrl": "https://foursquare.com/v/%D8%B3%D9%83%D8%A7%D9%8A-%D9%83%D8%A7%D9%81%D9%8A%D9%87/61674086b2a0496a8dec11cd"
+    "menuUrl": "https://foursquare.com/v/%D8%B3%D9%83%D8%A7%D9%8A-%D9%83%D8%A7%D9%81%D9%8A%D9%87/61674086b2a0496a8dec11cd",
+    "hours": "24/7"
   },
   {
     "id": "3029",
@@ -2173,7 +2444,8 @@
     "city": "الرياض",
     "category": "Coffee Shop",
     "phone": "+966555698822",
-    "menuUrl": "https://foursquare.com/v/%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D9%82%D9%87%D9%88%D8%A9/614f5eda3aa8e010e664a264"
+    "menuUrl": "https://foursquare.com/v/%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D9%82%D9%87%D9%88%D8%A9/614f5eda3aa8e010e664a264",
+    "hours": "Mo-Sa 16:00-02:00"
   },
   {
     "id": "3030",
@@ -2181,7 +2453,8 @@
     "city": "تبوك",
     "category": "Coffee Shop",
     "phone": "+966504430331",
-    "menuUrl": "https://foursquare.com/v/%D8%B6%D9%8A%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3/569e809238fa87a0fa9a5f5b"
+    "menuUrl": "https://foursquare.com/v/%D8%B6%D9%8A%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3/569e809238fa87a0fa9a5f5b",
+    "hours": "Mo-Sa 16:30-03:00"
   },
   {
     "id": "3031",
@@ -2189,7 +2462,8 @@
     "city": "Al Khobar",
     "category": "Cafe",
     "phone": "+92920024123",
-    "menuUrl": "https://mantorose.com.sa"
+    "menuUrl": "https://mantorose.com.sa",
+    "hours": "24/7"
   },
   {
     "id": "3032",
@@ -2197,7 +2471,8 @@
     "city": "Ar Rabi, Riyadh",
     "category": "Arabic",
     "phone": "+966112222200",
-    "menuUrl": "https://linktr.ee/alkhrof"
+    "menuUrl": "https://linktr.ee/alkhrof",
+    "hours": "24/7"
   },
   {
     "id": "3034",
@@ -2205,7 +2480,8 @@
     "city": "مكة المكرمة",
     "category": "Coffee Shop",
     "phone": "+966566619623",
-    "menuUrl": "https://instagram.com/im._coffee?utm_medium=copy_link"
+    "menuUrl": "https://instagram.com/im._coffee?utm_medium=copy_link",
+    "hours": "24/7"
   },
   {
     "id": "3035",
@@ -2213,7 +2489,8 @@
     "city": "مكة المكرمة",
     "category": "Coffee Shop",
     "phone": "+966566619623",
-    "menuUrl": "https://instagram.com/im._coffee?utm_medium=copy_link"
+    "menuUrl": "https://instagram.com/im._coffee?utm_medium=copy_link",
+    "hours": "24/7"
   },
   {
     "id": "3038",
@@ -2221,7 +2498,8 @@
     "city": "جدة",
     "category": "Coffee Shop",
     "phone": "+966538883055",
-    "menuUrl": "https://linktr.ee/macafe"
+    "menuUrl": "https://linktr.ee/macafe",
+    "hours": "Mo-We 06:20-02:00; Th 24/7; Fr 13:00-06:00; Sa-Su 06:00-02:00"
   },
   {
     "id": "3039",
@@ -2229,7 +2507,8 @@
     "city": "Riyadh",
     "category": "Pizza",
     "phone": "0593124440",
-    "menuUrl": "https://www.instagram.com/novels_bakery/?hl=en"
+    "menuUrl": "https://www.instagram.com/novels_bakery/?hl=en",
+    "hours": ""
   },
   {
     "id": "3040",
@@ -2237,7 +2516,8 @@
     "city": "jeddah",
     "category": "American",
     "phone": "+966554554394",
-    "menuUrl": "https://www.instagram.com/habrat.sa"
+    "menuUrl": "https://www.instagram.com/habrat.sa",
+    "hours": "Sa-We 13:00-12:30; Th 13:00-01:30, Fr 15:00-01:30"
   },
   {
     "id": "3043",
@@ -2245,7 +2525,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "0112333363",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3044",
@@ -2253,7 +2534,8 @@
     "city": "الرياض",
     "category": "Cafe",
     "phone": "0550880589",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "16:00-09:00"
   },
   {
     "id": "3045",
@@ -2261,7 +2543,8 @@
     "city": "",
     "category": "Fast Food",
     "phone": "+966 9200 23030",
-    "menuUrl": "https://www.saldwich.com"
+    "menuUrl": "https://www.saldwich.com",
+    "hours": "Mo-Sa 00:00-24:00; Su 00:00-03:00,07:00-24:00"
   },
   {
     "id": "3047",
@@ -2269,7 +2552,8 @@
     "city": "Thuwal",
     "category": "Pizza",
     "phone": "+966128086535",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Th 11:00-22:00; Fr 12:30-22:30; Sa-Su 11:00-22:00"
   },
   {
     "id": "3048",
@@ -2277,7 +2561,8 @@
     "city": "مكة",
     "category": "Coffee Shop",
     "phone": "053 888 3055",
-    "menuUrl": "https://www.instagram.com/ma_cafeksa/"
+    "menuUrl": "https://www.instagram.com/ma_cafeksa/",
+    "hours": "24/7"
   },
   {
     "id": "3049",
@@ -2285,7 +2570,8 @@
     "city": "صبيا",
     "category": "Cafe",
     "phone": "055 117 9399",
-    "menuUrl": "https://foursquare.com/v/80-%D8%A7%D9%8A%D8%AA%D9%8A-%D8%A8%D9%8A%D8%B1%D8%B3%D9%86%D8%AA-%D9%83%D8%A7%D9%81%D9%8A%D8%A9/62a94c396b5b7c77757e9765"
+    "menuUrl": "https://foursquare.com/v/80-%D8%A7%D9%8A%D8%AA%D9%8A-%D8%A8%D9%8A%D8%B1%D8%B3%D9%86%D8%AA-%D9%83%D8%A7%D9%81%D9%8A%D8%A9/62a94c396b5b7c77757e9765",
+    "hours": "24/7"
   },
   {
     "id": "3050",
@@ -2293,7 +2579,8 @@
     "city": "jeddah",
     "category": "Coffee Shop",
     "phone": "+966554702773",
-    "menuUrl": "https://cafeeirosksa.com/"
+    "menuUrl": "https://cafeeirosksa.com/",
+    "hours": "Mo-Su 08:00-1:00"
   },
   {
     "id": "3073",
@@ -2301,7 +2588,8 @@
     "city": "مكة",
     "category": "Seafood",
     "phone": "+966504134044",
-    "menuUrl": "https://www.instagram.com/shrimpnations/"
+    "menuUrl": "https://www.instagram.com/shrimpnations/",
+    "hours": "12:00-02:30"
   },
   {
     "id": "3074",
@@ -2309,7 +2597,8 @@
     "city": "",
     "category": "Coffee Shop",
     "phone": "920006843",
-    "menuUrl": "https://barns.com.sa/ar"
+    "menuUrl": "https://barns.com.sa/ar",
+    "hours": "24/7"
   },
   {
     "id": "3085",
@@ -2317,7 +2606,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "0127377100",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3086",
@@ -2325,7 +2615,8 @@
     "city": "",
     "category": "Swiss",
     "phone": "+966920018998",
-    "menuUrl": "https://entrecote-cdp.com/"
+    "menuUrl": "https://entrecote-cdp.com/",
+    "hours": ""
   },
   {
     "id": "3087",
@@ -2333,7 +2624,8 @@
     "city": "",
     "category": "Chicken",
     "phone": "٨٠٠٢٤٤٢٢٤٥",
-    "menuUrl": "https://www.albaik.com/"
+    "menuUrl": "https://www.albaik.com/",
+    "hours": "Mo-Su 09:00-02:00"
   },
   {
     "id": "3090",
@@ -2341,7 +2633,8 @@
     "city": "Riyadh",
     "category": "Swiss",
     "phone": "+966 920018998",
-    "menuUrl": "https://entrecote-cdp.com/"
+    "menuUrl": "https://entrecote-cdp.com/",
+    "hours": ""
   },
   {
     "id": "3092",
@@ -2349,7 +2642,8 @@
     "city": "جدة",
     "category": "مقهى لشرب الشاهي والقهوة العربية",
     "phone": "0555768470",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "-01:0016:00"
   },
   {
     "id": "3095",
@@ -2357,7 +2651,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "0556601744",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 08:00-02:00"
   },
   {
     "id": "3096",
@@ -2365,7 +2660,8 @@
     "city": "",
     "category": "International",
     "phone": "056 805 6898",
-    "menuUrl": "https://instagram.com/elseksa"
+    "menuUrl": "https://instagram.com/elseksa",
+    "hours": "24/7"
   },
   {
     "id": "3097",
@@ -2373,7 +2669,8 @@
     "city": "Jeddah",
     "category": "International",
     "phone": "+966 12 696 8888",
-    "menuUrl": "https://www.kaiajeddah.com/"
+    "menuUrl": "https://www.kaiajeddah.com/",
+    "hours": "Tu-Sa 18:00-02:00"
   },
   {
     "id": "3113",
@@ -2381,7 +2678,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "0138531919",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3115",
@@ -2389,7 +2687,8 @@
     "city": "",
     "category": "Filipino",
     "phone": "0567088217",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Th, Sa, Su 09:00-23:00; Fr 08:00-23:00"
   },
   {
     "id": "3127",
@@ -2397,7 +2696,8 @@
     "city": "riyadh",
     "category": "Coffee Shop",
     "phone": "+966532944236",
-    "menuUrl": "https://www.snapchat.com/add/consolationcafe"
+    "menuUrl": "https://www.snapchat.com/add/consolationcafe",
+    "hours": ""
   },
   {
     "id": "3143",
@@ -2405,7 +2705,8 @@
     "city": "القنفذة",
     "category": "Dessert",
     "phone": "+966550341999",
-    "menuUrl": "https://ellmenus.com/menu-artboon-coffee1"
+    "menuUrl": "https://ellmenus.com/menu-artboon-coffee1",
+    "hours": "24/7"
   },
   {
     "id": "3153",
@@ -2413,7 +2714,8 @@
     "city": "Riyadh",
     "category": "Tea",
     "phone": "+9660506185545",
-    "menuUrl": "achaytea.com"
+    "menuUrl": "achaytea.com",
+    "hours": ""
   },
   {
     "id": "3155",
@@ -2421,7 +2723,8 @@
     "city": "العليا",
     "category": "Pizza",
     "phone": "+966531555816",
-    "menuUrl": "https://roknwarda.com/ar/"
+    "menuUrl": "https://roknwarda.com/ar/",
+    "hours": "Mo-Su 12:00-01:00"
   },
   {
     "id": "3157",
@@ -2429,7 +2732,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "+966535263336",
-    "menuUrl": "https://instagram.com/alihabibcafe"
+    "menuUrl": "https://instagram.com/alihabibcafe",
+    "hours": ""
   },
   {
     "id": "3158",
@@ -2437,7 +2741,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966582619943",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Su-Sa 16:00-00:30"
   },
   {
     "id": "3160",
@@ -2445,7 +2750,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966538123470",
-    "menuUrl": "https://asalwa.com/"
+    "menuUrl": "https://asalwa.com/",
+    "hours": "01:00-23:00"
   },
   {
     "id": "3163",
@@ -2453,7 +2759,8 @@
     "city": "المدينة المنورة",
     "category": "Pizza",
     "phone": "+966596086888",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "3166",
@@ -2461,7 +2768,8 @@
     "city": "",
     "category": "Italian",
     "phone": "+966541914026",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3168",
@@ -2469,7 +2777,8 @@
     "city": "",
     "category": "Coffee Shop",
     "phone": "+966549911955",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3180",
@@ -2477,7 +2786,8 @@
     "city": "",
     "category": "Italian",
     "phone": "+966920012111",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3182",
@@ -2485,7 +2795,8 @@
     "city": "",
     "category": "Italian",
     "phone": "+966920000129",
-    "menuUrl": "https://roma-way.com/menu"
+    "menuUrl": "https://roma-way.com/menu",
+    "hours": ""
   },
   {
     "id": "3183",
@@ -2493,7 +2804,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966️920010971",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3189",
@@ -2501,7 +2813,8 @@
     "city": "",
     "category": "Shawarma",
     "phone": "8001000229",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3195",
@@ -2509,7 +2822,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "+966581806324",
-    "menuUrl": "https://chocochino.net/"
+    "menuUrl": "https://chocochino.net/",
+    "hours": ""
   },
   {
     "id": "3197",
@@ -2517,7 +2831,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "+966565685415",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3201",
@@ -2525,7 +2840,8 @@
     "city": "Jeddah",
     "category": "Lebanese",
     "phone": "+966 12 696 8888",
-    "menuUrl": "https://niyyali.com/"
+    "menuUrl": "https://niyyali.com/",
+    "hours": "Fr-Sa 13:00-01:00, Su-Th 16:00-01:00"
   },
   {
     "id": "3202",
@@ -2533,7 +2849,8 @@
     "city": "",
     "category": "Middle Eastern",
     "phone": "+966553255036",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3203",
@@ -2541,7 +2858,8 @@
     "city": "",
     "category": "Coffee Shop",
     "phone": "920028221",
-    "menuUrl": "https://crepeandwaffles.com"
+    "menuUrl": "https://crepeandwaffles.com",
+    "hours": ""
   },
   {
     "id": "3206",
@@ -2549,7 +2867,8 @@
     "city": "",
     "category": "Burger",
     "phone": "+966920022997",
-    "menuUrl": "https://www.burgerizzr.com/"
+    "menuUrl": "https://www.burgerizzr.com/",
+    "hours": ""
   },
   {
     "id": "3210",
@@ -2557,7 +2876,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "+966544131167",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3219",
@@ -2565,7 +2885,8 @@
     "city": "Jeddah",
     "category": "International",
     "phone": "+966 12 696 8888",
-    "menuUrl": "https://www.thewaterfrontkitchen.com/"
+    "menuUrl": "https://www.thewaterfrontkitchen.com/",
+    "hours": "Mo-Su 07:30-23:30"
   },
   {
     "id": "3220",
@@ -2573,7 +2894,8 @@
     "city": "",
     "category": "Seafood",
     "phone": "+96656662864",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3223",
@@ -2581,7 +2903,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "+966502504151",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3227",
@@ -2589,7 +2912,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966138230255",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3228",
@@ -2597,7 +2921,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "+966551328269",
-    "menuUrl": "https://www.akibastore.net/"
+    "menuUrl": "https://www.akibastore.net/",
+    "hours": ""
   },
   {
     "id": "3229",
@@ -2605,7 +2930,8 @@
     "city": "",
     "category": "Burger",
     "phone": "+966559911403",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3231",
@@ -2613,7 +2939,8 @@
     "city": "",
     "category": "Lebanese",
     "phone": "+966549595444",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3237",
@@ -2621,7 +2948,8 @@
     "city": "Khafji",
     "category": "Pasta",
     "phone": "+966504451114",
-    "menuUrl": "https://fabulous.menuspages.com/"
+    "menuUrl": "https://fabulous.menuspages.com/",
+    "hours": "Mo-Su 11:00-02:00"
   },
   {
     "id": "3240",
@@ -2629,7 +2957,8 @@
     "city": "",
     "category": "Coffee Shop",
     "phone": "+966556346070",
-    "menuUrl": "https://mylink.la/lavie"
+    "menuUrl": "https://mylink.la/lavie",
+    "hours": ""
   },
   {
     "id": "3241",
@@ -2637,7 +2966,8 @@
     "city": "hail",
     "category": "Coffee Shop",
     "phone": "+966542016624",
-    "menuUrl": "https://bandpcafe.com/"
+    "menuUrl": "https://bandpcafe.com/",
+    "hours": "24/7"
   },
   {
     "id": "3249",
@@ -2645,7 +2975,8 @@
     "city": "Riyadh",
     "category": "Restaurant",
     "phone": "+966 50 519 2233",
-    "menuUrl": "https://www.instagram.com/varibrasserie"
+    "menuUrl": "https://www.instagram.com/varibrasserie",
+    "hours": "Mo-sat 07:00-00:00"
   },
   {
     "id": "3252",
@@ -2653,7 +2984,8 @@
     "city": "",
     "category": "Turkish",
     "phone": "+966 148 274 998",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3272",
@@ -2661,7 +2993,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "0127346940",
-    "menuUrl": "https://www.instagram.com/bait.alfatayer"
+    "menuUrl": "https://www.instagram.com/bait.alfatayer",
+    "hours": "PH,Mo-Su 13:00-02:00"
   },
   {
     "id": "3276",
@@ -2669,7 +3002,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "0541022203",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3277",
@@ -2677,7 +3011,8 @@
     "city": "taif",
     "category": "Coffee Shop",
     "phone": "057 733 3270",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "3283",
@@ -2685,7 +3020,8 @@
     "city": "الخرج",
     "category": "Coffee Shop",
     "phone": "0559219993",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 06:00-00:00"
   },
   {
     "id": "3290",
@@ -2693,7 +3029,8 @@
     "city": "مكه المكرمه",
     "category": "Cafe",
     "phone": "+966549779938",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "3293",
@@ -2701,7 +3038,8 @@
     "city": "الرياض",
     "category": "Coffee Shop",
     "phone": "+966538882773",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "3296",
@@ -2709,7 +3047,8 @@
     "city": "Dammam",
     "category": "Coffee Shop",
     "phone": "0504999155",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3297",
@@ -2717,7 +3056,8 @@
     "city": "الخبر",
     "category": "Coffee Shop",
     "phone": "+966550400271",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3298",
@@ -2725,7 +3065,8 @@
     "city": "الخرج",
     "category": "Coffee Shop",
     "phone": "+966553006036",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "10:00-22:00"
   },
   {
     "id": "3307",
@@ -2733,7 +3074,8 @@
     "city": "الهفوف",
     "category": "Coffee Shop",
     "phone": "+966558765711",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 09:00-23:00"
   },
   {
     "id": "3308",
@@ -2741,7 +3083,8 @@
     "city": "المدينة المنورة",
     "category": "Coffee Shop",
     "phone": "+966505740681",
-    "menuUrl": "https://maps.app.goo.gl/T1HJUJLeQLPHBJVM8"
+    "menuUrl": "https://maps.app.goo.gl/T1HJUJLeQLPHBJVM8",
+    "hours": "24/7"
   },
   {
     "id": "3309",
@@ -2749,7 +3092,8 @@
     "city": "Makkah",
     "category": "Lebanese",
     "phone": "+966 55 114 9300",
-    "menuUrl": "https://www.hilton.com/en/hotels/makchhi-hilton-hotel-and-convention-jabal-omar-makkah/dining/"
+    "menuUrl": "https://www.hilton.com/en/hotels/makchhi-hilton-hotel-and-convention-jabal-omar-makkah/dining/",
+    "hours": "Mo-Sa 13:30-22:30"
   },
   {
     "id": "3327",
@@ -2757,7 +3101,8 @@
     "city": "جدة",
     "category": "Regional",
     "phone": "+966533647845",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3329",
@@ -2765,7 +3110,8 @@
     "city": "riyadh",
     "category": "Dessert",
     "phone": "+966580694093",
-    "menuUrl": "https://caesar.tryorder.net/link"
+    "menuUrl": "https://caesar.tryorder.net/link",
+    "hours": "Mo-Su 15:00-07:00"
   },
   {
     "id": "3343",
@@ -2773,7 +3119,8 @@
     "city": "الرياض",
     "category": "Coffee Shop",
     "phone": "+966501206686",
-    "menuUrl": "https://linkpop.com/hetkia"
+    "menuUrl": "https://linkpop.com/hetkia",
+    "hours": "Mo-Su 16:00-00:00"
   },
   {
     "id": "3345",
@@ -2781,7 +3128,8 @@
     "city": "Riyadh",
     "category": "Arab",
     "phone": "+966544660904",
-    "menuUrl": "http://macboos.rf.gd/"
+    "menuUrl": "http://macboos.rf.gd/",
+    "hours": "Mo-Su 13:00-01:00"
   },
   {
     "id": "3365",
@@ -2789,7 +3137,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "+966541994085",
-    "menuUrl": "https://www.redmugcaffe.com/"
+    "menuUrl": "https://www.redmugcaffe.com/",
+    "hours": ""
   },
   {
     "id": "3366",
@@ -2797,7 +3146,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966541414908",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3367",
@@ -2805,7 +3155,8 @@
     "city": "",
     "category": "Coffee Shop",
     "phone": "+966544589911",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3370",
@@ -2813,7 +3164,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "+966550747072",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3372",
@@ -2821,7 +3173,8 @@
     "city": "",
     "category": "Arab",
     "phone": "+9660545636513",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3373",
@@ -2829,7 +3182,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "+966501987769",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3374",
@@ -2837,7 +3191,8 @@
     "city": "",
     "category": "French",
     "phone": "+966553359777",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3375",
@@ -2845,7 +3200,8 @@
     "city": "",
     "category": "Coffee Shop",
     "phone": "+966508505026",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3376",
@@ -2853,7 +3209,8 @@
     "city": "",
     "category": "Japanese",
     "phone": "+966530066014",
-    "menuUrl": "https://ukiyorestaurant.com/"
+    "menuUrl": "https://ukiyorestaurant.com/",
+    "hours": ""
   },
   {
     "id": "3378",
@@ -2861,7 +3218,8 @@
     "city": "",
     "category": "Coffee Shop",
     "phone": "+966554230106",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3381",
@@ -2869,7 +3227,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966566684441",
-    "menuUrl": "https://butterflies.yallaqrcodes.com/"
+    "menuUrl": "https://butterflies.yallaqrcodes.com/",
+    "hours": ""
   },
   {
     "id": "3382",
@@ -2877,7 +3236,8 @@
     "city": "",
     "category": "Indian",
     "phone": "+966126699669",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3383",
@@ -2885,7 +3245,8 @@
     "city": "",
     "category": "Coffee Shop",
     "phone": "+966530132178",
-    "menuUrl": "https://ancestry.sa/"
+    "menuUrl": "https://ancestry.sa/",
+    "hours": ""
   },
   {
     "id": "3384",
@@ -2893,7 +3254,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "+966555382003",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "3385",
@@ -2901,7 +3263,8 @@
     "city": "",
     "category": "Arab",
     "phone": "+966593928078",
-    "menuUrl": "https://www.teladcafe.com/"
+    "menuUrl": "https://www.teladcafe.com/",
+    "hours": ""
   },
   {
     "id": "3386",
@@ -2909,7 +3272,8 @@
     "city": "",
     "category": "Coffee Shop",
     "phone": "+966547778045",
-    "menuUrl": "https://universedcafe.com/"
+    "menuUrl": "https://universedcafe.com/",
+    "hours": ""
   },
   {
     "id": "3389",
@@ -2917,7 +3281,8 @@
     "city": "RIYADH",
     "category": "Coffee Shop",
     "phone": "+966533331189",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Sa 08:00-2:00"
   },
   {
     "id": "3390",
@@ -2925,7 +3290,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "013 806 4237",
-    "menuUrl": "https://raisingcanesme.com/"
+    "menuUrl": "https://raisingcanesme.com/",
+    "hours": "Mo-Su 07:00-06:00"
   },
   {
     "id": "3392",
@@ -2933,7 +3299,8 @@
     "city": "Jeddah",
     "category": "Lebanese",
     "phone": "0126559155",
-    "menuUrl": "https://www.instagram.com/ziyadatoum/"
+    "menuUrl": "https://www.instagram.com/ziyadatoum/",
+    "hours": "Mo-Su 17:00-02:00"
   },
   {
     "id": "3396",
@@ -2941,7 +3308,8 @@
     "city": "جازان",
     "category": "Coffee Shop",
     "phone": "+966509236300",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "3399",
@@ -2949,7 +3317,8 @@
     "city": "jeddah",
     "category": "Indian",
     "phone": "0570525974",
-    "menuUrl": "www.sagarindianrestaurant.in"
+    "menuUrl": "www.sagarindianrestaurant.in",
+    "hours": "Mo-Su 11:00 - 2:00"
   },
   {
     "id": "3401",
@@ -2957,7 +3326,8 @@
     "city": "القريات",
     "category": "Restaurant",
     "phone": "+966551431983",
-    "menuUrl": "https://bluedanah.menuspages.com/"
+    "menuUrl": "https://bluedanah.menuspages.com/",
+    "hours": "Mo-Su 09:00-23:30"
   },
   {
     "id": "3406",
@@ -2965,7 +3335,8 @@
     "city": "",
     "category": "Fish",
     "phone": "0533121901;0501045634;0578336269",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3407",
@@ -2973,7 +3344,8 @@
     "city": "riyadh",
     "category": "American",
     "phone": "+966536707039",
-    "menuUrl": "https://www.bofksa.com/"
+    "menuUrl": "https://www.bofksa.com/",
+    "hours": "Mo-Su 17:00-1:00"
   },
   {
     "id": "3416",
@@ -2981,7 +3353,8 @@
     "city": "جدة",
     "category": "Coffee Shop",
     "phone": "0500112808",
-    "menuUrl": "https://www.cuprover.com/"
+    "menuUrl": "https://www.cuprover.com/",
+    "hours": ""
   },
   {
     "id": "3425",
@@ -2989,7 +3362,8 @@
     "city": "jeddah",
     "category": "Coffee Shop",
     "phone": "0555873883",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "3430",
@@ -2997,7 +3371,8 @@
     "city": "جدة",
     "category": "Coffee Shop",
     "phone": "0126556555",
-    "menuUrl": "https://rexsacafe.com/"
+    "menuUrl": "https://rexsacafe.com/",
+    "hours": "24/7"
   },
   {
     "id": "3431",
@@ -3005,7 +3380,8 @@
     "city": "جده",
     "category": "Chocolate",
     "phone": "0126556555",
-    "menuUrl": "https://rexsacafe.com/"
+    "menuUrl": "https://rexsacafe.com/",
+    "hours": "24/7"
   },
   {
     "id": "3437",
@@ -3013,7 +3389,8 @@
     "city": "",
     "category": "Indian",
     "phone": "013-599-1000",
-    "menuUrl": "https://daralkaramsa.com/har/"
+    "menuUrl": "https://daralkaramsa.com/har/",
+    "hours": "Mo-Su 09:00-23:00"
   },
   {
     "id": "3438",
@@ -3021,7 +3398,8 @@
     "city": "Riyadh",
     "category": "Shawarma",
     "phone": "+966 55 326 0491",
-    "menuUrl": "https://ustaasim.com"
+    "menuUrl": "https://ustaasim.com",
+    "hours": "13:00 - 2:30"
   },
   {
     "id": "3439",
@@ -3029,7 +3407,8 @@
     "city": "jazan",
     "category": "Pie",
     "phone": "+966500647979",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 06:00-2:00"
   },
   {
     "id": "3441",
@@ -3037,7 +3416,8 @@
     "city": "مكة",
     "category": "Regional",
     "phone": "0558624229",
-    "menuUrl": "https://www.google.com/maps/place/مطعم+مذاق+الشرق%E2%80%AD/@21.4763682,39.8430779,17z/data=!3m1!4b1!4m6!3m5!1s0x15c202e3e663f193:0x337185b55a6af831!8m2!3d21.4763682!4d39.8430779!16s%2Fg%2F11c1mjdwbw?hl=ar-SA&entry=ttu"
+    "menuUrl": "https://www.google.com/maps/place/مطعم+مذاق+الشرق%E2%80%AD/@21.4763682,39.8430779,17z/data=!3m1!4b1!4m6!3m5!1s0x15c202e3e663f193:0x337185b55a6af831!8m2!3d21.4763682!4d39.8430779!16s%2Fg%2F11c1mjdwbw?hl=ar-SA&entry=ttu",
+    "hours": "Mo-fr11:00-23:00"
   },
   {
     "id": "3445",
@@ -3045,7 +3425,8 @@
     "city": "",
     "category": "Fast Food",
     "phone": "0533309506",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3446",
@@ -3053,7 +3434,8 @@
     "city": "",
     "category": "Coffee Shop",
     "phone": "966552884559",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "SU-THU 09:00-21:00"
   },
   {
     "id": "3447",
@@ -3061,7 +3443,8 @@
     "city": "الدائر",
     "category": "Regional",
     "phone": "966500043364",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 06:00-23:00"
   },
   {
     "id": "3448",
@@ -3069,7 +3452,8 @@
     "city": "الرياض",
     "category": "Coffee Shop",
     "phone": "+966 53 772 2221",
-    "menuUrl": "https://repository.sa/"
+    "menuUrl": "https://repository.sa/",
+    "hours": ""
   },
   {
     "id": "3462",
@@ -3077,7 +3461,8 @@
     "city": "At Taif",
     "category": "Steak House",
     "phone": "0557697678",
-    "menuUrl": "Sautcher.com"
+    "menuUrl": "Sautcher.com",
+    "hours": "24/7"
   },
   {
     "id": "3465",
@@ -3085,7 +3470,8 @@
     "city": "",
     "category": "Pizza",
     "phone": "+966920006648",
-    "menuUrl": "https://www.dominos.sa"
+    "menuUrl": "https://www.dominos.sa",
+    "hours": ""
   },
   {
     "id": "3470",
@@ -3093,7 +3479,8 @@
     "city": "",
     "category": "Fast Food",
     "phone": "+966 50 681 2579;+966 53 050 2053",
-    "menuUrl": "https://order.ulb.sa/menu"
+    "menuUrl": "https://order.ulb.sa/menu",
+    "hours": "Mo-We,Sa-Su 12:00-01:00; Th 12:00-02:00, Fr 13:00-02:00"
   },
   {
     "id": "3471",
@@ -3101,7 +3488,8 @@
     "city": "",
     "category": "Fast Food",
     "phone": "+966 53 205 0085;+966 53 721 0833",
-    "menuUrl": "https://order.tiko.sa/menu"
+    "menuUrl": "https://order.tiko.sa/menu",
+    "hours": "Mo-Su 12:00-01:00"
   },
   {
     "id": "3487",
@@ -3109,7 +3497,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "+966 50 894 3632;+966 55 104 7144",
-    "menuUrl": "https://order.sors.sa/menu"
+    "menuUrl": "https://order.sors.sa/menu",
+    "hours": "Mo-Su 12:00-00:00"
   },
   {
     "id": "3488",
@@ -3117,7 +3506,8 @@
     "city": "",
     "category": "Fast Food",
     "phone": "+966 55 106 6944",
-    "menuUrl": "https://order.chkn.sa/menu"
+    "menuUrl": "https://order.chkn.sa/menu",
+    "hours": "Mo-We,Sa-Su 12:00-01:00; Th 12:00-02:00, Fr 13:00-02:00"
   },
   {
     "id": "3508",
@@ -3125,7 +3515,8 @@
     "city": "",
     "category": "Fast Food",
     "phone": "+966920002919",
-    "menuUrl": "https://sultandb.com"
+    "menuUrl": "https://sultandb.com",
+    "hours": ""
   },
   {
     "id": "3523",
@@ -3133,7 +3524,8 @@
     "city": "Rabigh",
     "category": "Indian",
     "phone": "966536090630",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3531",
@@ -3141,7 +3533,8 @@
     "city": "Al Khobar",
     "category": "Sandwich",
     "phone": "0569168945",
-    "menuUrl": "https://www.zoobaeats.com"
+    "menuUrl": "https://www.zoobaeats.com",
+    "hours": "Sa-We 07:00-24:00; Th,Fr 07:00-01:00"
   },
   {
     "id": "3590",
@@ -3149,7 +3542,8 @@
     "city": "",
     "category": "Coffee Shop",
     "phone": "0534720755",
-    "menuUrl": "https://www.rawnahstore.com"
+    "menuUrl": "https://www.rawnahstore.com",
+    "hours": "24/7"
   },
   {
     "id": "3591",
@@ -3157,7 +3551,8 @@
     "city": "Jeddah",
     "category": "Coffee Shop",
     "phone": "0532822655",
-    "menuUrl": "https://www.rawnahstore.com/"
+    "menuUrl": "https://www.rawnahstore.com/",
+    "hours": ""
   },
   {
     "id": "3600",
@@ -3165,7 +3560,8 @@
     "city": "",
     "category": "Regional",
     "phone": "0122508600",
-    "menuUrl": "https://www.raydan.com.sa/"
+    "menuUrl": "https://www.raydan.com.sa/",
+    "hours": ""
   },
   {
     "id": "3603",
@@ -3173,7 +3569,8 @@
     "city": "",
     "category": "Pizza",
     "phone": "0532055932",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3604",
@@ -3181,7 +3578,8 @@
     "city": "",
     "category": "Regional",
     "phone": "0501007227",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3606",
@@ -3189,7 +3587,8 @@
     "city": "",
     "category": "Indian",
     "phone": "0563815666",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3607",
@@ -3197,7 +3596,8 @@
     "city": "",
     "category": "Regional",
     "phone": "0501980077",
-    "menuUrl": "https://jamer.sa/menu"
+    "menuUrl": "https://jamer.sa/menu",
+    "hours": ""
   },
   {
     "id": "3611",
@@ -3205,7 +3605,8 @@
     "city": "",
     "category": "شاورما",
     "phone": "0560958332",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3612",
@@ -3213,7 +3614,8 @@
     "city": "",
     "category": "Pizza",
     "phone": "0555166104",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3613",
@@ -3221,7 +3623,8 @@
     "city": "",
     "category": "Pizza",
     "phone": "0502220098",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3614",
@@ -3229,7 +3632,8 @@
     "city": "",
     "category": "Shawarma",
     "phone": "920008080",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3645",
@@ -3237,7 +3641,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "+966 55 026 9179",
-    "menuUrl": "https://3bees.sa"
+    "menuUrl": "https://3bees.sa",
+    "hours": "Mo-Su 16:00-00:00"
   },
   {
     "id": "3666",
@@ -3245,7 +3650,8 @@
     "city": "",
     "category": "Fast Food",
     "phone": "+966561684161",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 13:00-04:00"
   },
   {
     "id": "3697",
@@ -3253,7 +3659,8 @@
     "city": "الرياض",
     "category": "Lebanese",
     "phone": "+966547006777",
-    "menuUrl": "https://linktr.ee/bekaramofficial"
+    "menuUrl": "https://linktr.ee/bekaramofficial",
+    "hours": ""
   },
   {
     "id": "3701",
@@ -3261,7 +3668,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "0126983340",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3702",
@@ -3269,7 +3677,8 @@
     "city": "Riyadh",
     "category": "Coffee Shop",
     "phone": "057 013 1508",
-    "menuUrl": "https://vendorcoffee.cafe/"
+    "menuUrl": "https://vendorcoffee.cafe/",
+    "hours": "Fr-Su 06:00-02:00"
   },
   {
     "id": "3707",
@@ -3277,7 +3686,8 @@
     "city": "",
     "category": "Fast Food",
     "phone": "+966 53 503 4379",
-    "menuUrl": "https://bukharihara.tryorder.net/menu"
+    "menuUrl": "https://bukharihara.tryorder.net/menu",
+    "hours": "Mo-Su 11:00-02:00"
   },
   {
     "id": "3714",
@@ -3285,7 +3695,8 @@
     "city": "Bisha",
     "category": "Coffee Shop",
     "phone": "0176223351",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3756",
@@ -3293,7 +3704,8 @@
     "city": "فيفاء",
     "category": "Coffee Shop",
     "phone": "966536577666",
-    "menuUrl": "https://www.google.com.sa/travel/hotels/entity/ChkIv5jytpiD26ITGg0vZy8xMWtqM3d3bTU4EAE?utm_campaign=sharing&utm_medium=link&utm_source=htls&ved=0CAAQ5JsGahcKEwigxcbvz-SGAxUAAAAAHQAAAAAQBg&ts=CAEaIAoCGgASGhIUCgcI6A8QBhgaEgcI6A8QBhgbGAEyAhAAKgQKABoA"
+    "menuUrl": "https://www.google.com.sa/travel/hotels/entity/ChkIv5jytpiD26ITGg0vZy8xMWtqM3d3bTU4EAE?utm_campaign=sharing&utm_medium=link&utm_source=htls&ved=0CAAQ5JsGahcKEwigxcbvz-SGAxUAAAAAHQAAAAAQBg&ts=CAEaIAoCGgASGhIUCgcI6A8QBhgaEgcI6A8QBhgbGAEyAhAAKgQKABoA",
+    "hours": "12:00-00:00"
   },
   {
     "id": "3798",
@@ -3301,7 +3713,8 @@
     "city": "الدمام",
     "category": "Chicken",
     "phone": "8002442245",
-    "menuUrl": "albaik.com"
+    "menuUrl": "albaik.com",
+    "hours": "Mo,Sa 06:00-02:00; Tu,We,Su 06:00-02:30; Th,Fr 06:00-03:30"
   },
   {
     "id": "3813",
@@ -3309,7 +3722,8 @@
     "city": "الرياض",
     "category": "كنافة",
     "phone": "0502405040",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "12pm-1am"
   },
   {
     "id": "3857",
@@ -3317,7 +3731,8 @@
     "city": "المدينة المنورة",
     "category": "Chicken",
     "phone": "+966551862721",
-    "menuUrl": "https://maps.app.goo.gl/w1NrN2dqgYd77M2q6"
+    "menuUrl": "https://maps.app.goo.gl/w1NrN2dqgYd77M2q6",
+    "hours": ""
   },
   {
     "id": "3862",
@@ -3325,7 +3740,8 @@
     "city": "جيزان",
     "category": "Coffee Shop",
     "phone": "0538840031",
-    "menuUrl": "https://solo.to/coffee80.sa"
+    "menuUrl": "https://solo.to/coffee80.sa",
+    "hours": "24/7"
   },
   {
     "id": "3863",
@@ -3333,7 +3749,8 @@
     "city": "تنومة",
     "category": "Coffee Shop",
     "phone": "+966532211166",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "07:00-00:00"
   },
   {
     "id": "3865",
@@ -3341,7 +3758,8 @@
     "city": "",
     "category": "Kerala",
     "phone": "+966563311786",
-    "menuUrl": "https://panoorrestaurant.com/"
+    "menuUrl": "https://panoorrestaurant.com/",
+    "hours": ""
   },
   {
     "id": "3867",
@@ -3349,7 +3767,8 @@
     "city": "",
     "category": "مضغوط",
     "phone": "0506452955",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3868",
@@ -3357,7 +3776,8 @@
     "city": "النماص",
     "category": "Coffee Shop",
     "phone": "+966 50 472 1572",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "08:00-04:00"
   },
   {
     "id": "3869",
@@ -3365,7 +3785,8 @@
     "city": "تنومة",
     "category": "Coffee Shop",
     "phone": "+966 50 472 1572",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "08:00-04:00"
   },
   {
     "id": "3905",
@@ -3373,7 +3794,8 @@
     "city": "",
     "category": "Arab",
     "phone": "0550344654",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3915",
@@ -3381,7 +3803,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "053 322 1435",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 05:00-11:00, 19:30-00:00"
   },
   {
     "id": "3929",
@@ -3389,7 +3812,8 @@
     "city": "",
     "category": "Dessert",
     "phone": "054 971 6089",
-    "menuUrl": "https://ammar.cafe/"
+    "menuUrl": "https://ammar.cafe/",
+    "hours": "24/7"
   },
   {
     "id": "3939",
@@ -3397,7 +3821,8 @@
     "city": "",
     "category": "Arab",
     "phone": "0548653449",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "3949",
@@ -3405,7 +3830,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "920002223",
-    "menuUrl": "https://www.khayalrest.com/"
+    "menuUrl": "https://www.khayalrest.com/",
+    "hours": ""
   },
   {
     "id": "3982",
@@ -3413,7 +3839,8 @@
     "city": "Al-Kharj",
     "category": "Coffee Shop",
     "phone": "+966551020108",
-    "menuUrl": "https://kylahroastery1.com/ar"
+    "menuUrl": "https://kylahroastery1.com/ar",
+    "hours": "Sa-Th 07:00-24:00; Fr 16:00-24:00"
   },
   {
     "id": "3994",
@@ -3421,7 +3848,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "966531379554",
-    "menuUrl": "https://tofareya.sa/"
+    "menuUrl": "https://tofareya.sa/",
+    "hours": "24/7"
   },
   {
     "id": "4017",
@@ -3429,7 +3857,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "050 976 8977",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "4024",
@@ -3437,7 +3866,8 @@
     "city": "Al Khobar Al Shamalia",
     "category": "Chicken",
     "phone": "0138303003",
-    "menuUrl": "https://linktr.ee/mamanoura"
+    "menuUrl": "https://linktr.ee/mamanoura",
+    "hours": "Mo-Su 06:00-03:00"
   },
   {
     "id": "4034",
@@ -3445,7 +3875,8 @@
     "city": "albaha",
     "category": "Coffee Shop",
     "phone": "+966552732870",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "4041",
@@ -3453,7 +3884,8 @@
     "city": "",
     "category": "Arab",
     "phone": "0138111936",
-    "menuUrl": "https://maps.app.goo.gl/ZG6NCwHCyXpmz5bB8"
+    "menuUrl": "https://maps.app.goo.gl/ZG6NCwHCyXpmz5bB8",
+    "hours": "24/7"
   },
   {
     "id": "4044",
@@ -3461,7 +3893,8 @@
     "city": "Jeddah",
     "category": "Fried Chicken",
     "phone": "+966509554954",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Su-Sa 13-4"
   },
   {
     "id": "4045",
@@ -3469,7 +3902,8 @@
     "city": "Jeddah",
     "category": "Middle Eastern",
     "phone": "+966125929292",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 12:00-00:00"
   },
   {
     "id": "4066",
@@ -3477,7 +3911,8 @@
     "city": "Riyadh",
     "category": "Japanese",
     "phone": "+966 9200 15023",
-    "menuUrl": "https://chotto-matte.com/riyadh/"
+    "menuUrl": "https://chotto-matte.com/riyadh/",
+    "hours": "Mo-Su 17:00-01:00"
   },
   {
     "id": "4087",
@@ -3485,7 +3920,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "0554659527",
-    "menuUrl": "https://oregano.site/"
+    "menuUrl": "https://oregano.site/",
+    "hours": ""
   },
   {
     "id": "4197",
@@ -3493,7 +3929,8 @@
     "city": "",
     "category": "Pizza",
     "phone": "+966545978768",
-    "menuUrl": "https://ilveroalfredojeddah.com"
+    "menuUrl": "https://ilveroalfredojeddah.com",
+    "hours": "Mo-Su 13:00-00:00"
   },
   {
     "id": "4208",
@@ -3501,7 +3938,8 @@
     "city": "",
     "category": "حلويات",
     "phone": "+966 50 153 3381",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 08:00-24:00"
   },
   {
     "id": "4218",
@@ -3509,7 +3947,8 @@
     "city": "",
     "category": "Arab",
     "phone": "0138952614",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 10:30-02:00"
   },
   {
     "id": "4244",
@@ -3517,7 +3956,8 @@
     "city": "القنفذة",
     "category": "Coffee Shop",
     "phone": "+966503060828",
-    "menuUrl": "https://www.snapchat.com/add/loordsweet?share_id=1cXcWrcFmAo&locale=en-US"
+    "menuUrl": "https://www.snapchat.com/add/loordsweet?share_id=1cXcWrcFmAo&locale=en-US",
+    "hours": "24/7"
   },
   {
     "id": "4245",
@@ -3525,7 +3965,8 @@
     "city": "المجاردة",
     "category": "Coffee Shop",
     "phone": "+546805178",
-    "menuUrl": "https://www.snapchat.com/add/loordsweet?share_id=JBIC-3igd6g&locale=en-US"
+    "menuUrl": "https://www.snapchat.com/add/loordsweet?share_id=JBIC-3igd6g&locale=en-US",
+    "hours": "24/7"
   },
   {
     "id": "4255",
@@ -3533,7 +3974,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966 56 048 4888",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 12:30-00:00"
   },
   {
     "id": "4258",
@@ -3541,7 +3983,8 @@
     "city": "jazan",
     "category": "Coffee Shop",
     "phone": "+966500373343",
-    "menuUrl": "https://van.sa/"
+    "menuUrl": "https://van.sa/",
+    "hours": "Mo-Sa 07:00-16:00"
   },
   {
     "id": "4259",
@@ -3549,7 +3992,8 @@
     "city": "جيزان",
     "category": "Coffee Shop",
     "phone": "+966509242268",
-    "menuUrl": "https://www.instagram.com/elmashrabiya.sa?igsh=MWF2MWkzM3djbGNvbw=="
+    "menuUrl": "https://www.instagram.com/elmashrabiya.sa?igsh=MWF2MWkzM3djbGNvbw==",
+    "hours": "Mo-Su 07:00-03:00"
   },
   {
     "id": "4260",
@@ -3557,7 +4001,8 @@
     "city": "King Saud St",
     "category": "Shawarma",
     "phone": "+966530904050",
-    "menuUrl": "https://linktr.ee/tahina.sa"
+    "menuUrl": "https://linktr.ee/tahina.sa",
+    "hours": "Mo-Su 14:00-04:00"
   },
   {
     "id": "4261",
@@ -3565,7 +4010,8 @@
     "city": "صبيا",
     "category": "Shawarma",
     "phone": "+966544691517",
-    "menuUrl": "https://linktr.ee/tahina.sa"
+    "menuUrl": "https://linktr.ee/tahina.sa",
+    "hours": "Mo-Su 14:00-04:00"
   },
   {
     "id": "4262",
@@ -3573,7 +4019,8 @@
     "city": "جدة",
     "category": "Shawarma",
     "phone": "+966597524318",
-    "menuUrl": "https://linktr.ee/tahina.sa"
+    "menuUrl": "https://linktr.ee/tahina.sa",
+    "hours": "Mo-Su 12:00-03:00"
   },
   {
     "id": "4263",
@@ -3581,7 +4028,8 @@
     "city": "Jeddah",
     "category": "Shawarma",
     "phone": "+966509242268",
-    "menuUrl": "https://linktr.ee/tahina.sa"
+    "menuUrl": "https://linktr.ee/tahina.sa",
+    "hours": "Mo-Su 12:00-03:00"
   },
   {
     "id": "4269",
@@ -3589,7 +4037,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "+966 9200 07498",
-    "menuUrl": "https://www.urthcaffe.sa/welcome/index"
+    "menuUrl": "https://www.urthcaffe.sa/welcome/index",
+    "hours": "Mo-Su 07:00-01:00"
   },
   {
     "id": "4334",
@@ -3597,7 +4046,8 @@
     "city": "مكة",
     "category": "Chicken",
     "phone": "+966 50 837 9339",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Sa 13:00-04:30"
   },
   {
     "id": "4335",
@@ -3605,7 +4055,8 @@
     "city": "مكة",
     "category": "Meat",
     "phone": "+966 50 860 6558",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "4336",
@@ -3613,7 +4064,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966 9200 04146",
-    "menuUrl": "https://beefbar.com/riyadh/"
+    "menuUrl": "https://beefbar.com/riyadh/",
+    "hours": "Mo-Su 13:00-01:30"
   },
   {
     "id": "4337",
@@ -3621,7 +4073,8 @@
     "city": "",
     "category": "Italian",
     "phone": "+966 9200 11877",
-    "menuUrl": "https://www.signorsassi.sa/en"
+    "menuUrl": "https://www.signorsassi.sa/en",
+    "hours": "Mo-Su 13:00-01:30"
   },
   {
     "id": "4338",
@@ -3629,7 +4082,8 @@
     "city": "",
     "category": "Italian",
     "phone": "+966 9200 07275",
-    "menuUrl": "https://crazypizza.com/riyadh/"
+    "menuUrl": "https://crazypizza.com/riyadh/",
+    "hours": "Mo-Su 13:00-01:30"
   },
   {
     "id": "4342",
@@ -3637,7 +4091,8 @@
     "city": "",
     "category": "Japanese",
     "phone": "+966 9200 09686",
-    "menuUrl": "https://myazu.com/"
+    "menuUrl": "https://myazu.com/",
+    "hours": "Mo-Su 13:00-01:30"
   },
   {
     "id": "4344",
@@ -3645,7 +4100,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966 9200 14156",
-    "menuUrl": "https://www.kayzo.com"
+    "menuUrl": "https://www.kayzo.com",
+    "hours": "Mo-Su 13:00-01:30"
   },
   {
     "id": "4345",
@@ -3653,7 +4109,8 @@
     "city": "",
     "category": "Italian",
     "phone": "+966 9200 13860",
-    "menuUrl": "https://www.agio.sa"
+    "menuUrl": "https://www.agio.sa",
+    "hours": "Mo-Su 13:00-01:30"
   },
   {
     "id": "4346",
@@ -3661,7 +4118,8 @@
     "city": "",
     "category": "Italian",
     "phone": "+966 9200 04060",
-    "menuUrl": "https://www.sancarlocicchetti.sa"
+    "menuUrl": "https://www.sancarlocicchetti.sa",
+    "hours": "Mo-Su 13:00-01:30"
   },
   {
     "id": "4349",
@@ -3669,7 +4127,8 @@
     "city": "Jeddah",
     "category": "Coffee Shop",
     "phone": "+966507076750",
-    "menuUrl": "https://3brews.com/"
+    "menuUrl": "https://3brews.com/",
+    "hours": "Mo-Su 08:00-23:00"
   },
   {
     "id": "4365",
@@ -3677,7 +4136,8 @@
     "city": "",
     "category": "Peruvian",
     "phone": "+966 9200 10352",
-    "menuUrl": "https://coyarestaurant.com"
+    "menuUrl": "https://coyarestaurant.com",
+    "hours": "Mo-Su 13:00-01:30"
   },
   {
     "id": "4367",
@@ -3685,7 +4145,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "+966 56 341 6068",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "4373",
@@ -3693,7 +4154,8 @@
     "city": "الرياض",
     "category": "Coffee Shop",
     "phone": "+966502362024",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "4374",
@@ -3701,7 +4163,8 @@
     "city": "macca",
     "category": "Pizza",
     "phone": "+966502791277",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 14:00-03:00"
   },
   {
     "id": "4375",
@@ -3709,7 +4172,8 @@
     "city": "ابها",
     "category": "Coffee Shop",
     "phone": "+966555757398",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "4381",
@@ -3717,7 +4181,8 @@
     "city": "makkah",
     "category": "Asian",
     "phone": "+966560770784",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "4383",
@@ -3725,7 +4190,8 @@
     "city": "نجران",
     "category": "Coffee Shop",
     "phone": "0501668099",
-    "menuUrl": "https://www.roshankyan.com/"
+    "menuUrl": "https://www.roshankyan.com/",
+    "hours": "06:00-02:00"
   },
   {
     "id": "4385",
@@ -3733,7 +4199,8 @@
     "city": "Ras Tanura",
     "category": "Coffee Shop",
     "phone": "+966550078400",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Th 05:00-24:00; Fr 12:00-24:00; Sa 08:00-24:00; Su 05:00-24:00"
   },
   {
     "id": "4393",
@@ -3741,7 +4208,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "059 516 9063",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "4399",
@@ -3749,7 +4217,8 @@
     "city": "جدة",
     "category": "Regional",
     "phone": "+966546136126",
-    "menuUrl": "https://www.tiktok.com/@al_salam11"
+    "menuUrl": "https://www.tiktok.com/@al_salam11",
+    "hours": "Mo-Su 11:30AM-12:00AM"
   },
   {
     "id": "4400",
@@ -3757,7 +4226,8 @@
     "city": "",
     "category": "Coffee Shop",
     "phone": "+966 50 204 4070",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "16:15-23:00"
   },
   {
     "id": "4405",
@@ -3765,7 +4235,8 @@
     "city": "AL kharj",
     "category": "Coffee Shop",
     "phone": "+966556386864",
-    "menuUrl": "https://www.adrscoffee.com/"
+    "menuUrl": "https://www.adrscoffee.com/",
+    "hours": "24/7"
   },
   {
     "id": "4417",
@@ -3773,7 +4244,8 @@
     "city": "",
     "category": "Turkish",
     "phone": "+966 54 361 8492",
-    "menuUrl": "zoqalmazaq.com"
+    "menuUrl": "zoqalmazaq.com",
+    "hours": ""
   },
   {
     "id": "4424",
@@ -3781,7 +4253,8 @@
     "city": "الرياض",
     "category": "Coffee Shop",
     "phone": "+966 56 692 3197",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "4453",
@@ -3789,7 +4262,8 @@
     "city": "",
     "category": "Arab",
     "phone": "+966538584847",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "4457",
@@ -3797,7 +4271,8 @@
     "city": "",
     "category": "Pastry",
     "phone": "+966506322271",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "4459",
@@ -3805,7 +4280,8 @@
     "city": "",
     "category": "Burger",
     "phone": "0553315371",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 12:00-02:00"
   },
   {
     "id": "4463",
@@ -3813,7 +4289,8 @@
     "city": "",
     "category": "Indonesian",
     "phone": "053 270 0921",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 11:00-23:00"
   },
   {
     "id": "4464",
@@ -3821,7 +4298,8 @@
     "city": "",
     "category": "Japanese",
     "phone": "054 866 8890",
-    "menuUrl": "https://kaiseki.restaurant/"
+    "menuUrl": "https://kaiseki.restaurant/",
+    "hours": "Mo-Su 13:00-00:00"
   },
   {
     "id": "4465",
@@ -3829,7 +4307,8 @@
     "city": "الرياض",
     "category": "Sandwich",
     "phone": "00966538646403",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "4480",
@@ -3837,7 +4316,8 @@
     "city": "",
     "category": "Chicken",
     "phone": "+966 59 110 0910",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "4492",
@@ -3845,7 +4325,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966560353119",
-    "menuUrl": "https://okmenuqr.com/828253"
+    "menuUrl": "https://okmenuqr.com/828253",
+    "hours": "Mo-Su 06:30-10:30, 13:00-23:45"
   },
   {
     "id": "4501",
@@ -3853,7 +4334,8 @@
     "city": "Yanbu City",
     "category": "Tea",
     "phone": "054 259 0246",
-    "menuUrl": "https://www.instagram.com/__red_deer__?igsh=OWp5ZG9rMmV6ZW1n"
+    "menuUrl": "https://www.instagram.com/__red_deer__?igsh=OWp5ZG9rMmV6ZW1n",
+    "hours": "24/7"
   },
   {
     "id": "4503",
@@ -3861,7 +4343,8 @@
     "city": "الرياض",
     "category": "Coffee Shop",
     "phone": "+966552466128",
-    "menuUrl": "https://www.instagram.com/nahar_bakery"
+    "menuUrl": "https://www.instagram.com/nahar_bakery",
+    "hours": "Mo-Fr 09:00-17:00"
   },
   {
     "id": "4505",
@@ -3869,7 +4352,8 @@
     "city": "مكة المكرمة",
     "category": "Coffee Shop",
     "phone": "0508177807",
-    "menuUrl": "https://www.instagram.com/cavva.cafe?igsh=c2Vnc3MyMm9xY3Z2"
+    "menuUrl": "https://www.instagram.com/cavva.cafe?igsh=c2Vnc3MyMm9xY3Z2",
+    "hours": "24/7"
   },
   {
     "id": "4518",
@@ -3877,7 +4361,8 @@
     "city": "Al Khubar Ash Shamaliyah",
     "category": "Pizza",
     "phone": "+9660138672717",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 06:00-00:00"
   },
   {
     "id": "4520",
@@ -3885,7 +4370,8 @@
     "city": "المدينة المنورة",
     "category": "Arab",
     "phone": "0558056448",
-    "menuUrl": "https://linktr.ee/nokhba.hdr"
+    "menuUrl": "https://linktr.ee/nokhba.hdr",
+    "hours": ""
   },
   {
     "id": "4539",
@@ -3893,7 +4379,8 @@
     "city": "الرياض",
     "category": "Regional",
     "phone": "+966553643368",
-    "menuUrl": "https://linktr.ee/sh_alnkhbah.sa"
+    "menuUrl": "https://linktr.ee/sh_alnkhbah.sa",
+    "hours": "10:00-23:00"
   },
   {
     "id": "4590",
@@ -3901,7 +4388,8 @@
     "city": "",
     "category": "Chicken",
     "phone": "+966 59 018 7496",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "4594",
@@ -3909,7 +4397,8 @@
     "city": "",
     "category": "Fast Food",
     "phone": "+966 59 155 0220",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "4602",
@@ -3917,7 +4406,8 @@
     "city": "",
     "category": "Chicken",
     "phone": "+966 54 108 0304",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "4635",
@@ -3925,7 +4415,8 @@
     "city": "",
     "category": "Chicken",
     "phone": "050 220 4150",
-    "menuUrl": "https://frieo.tryorder.net/app"
+    "menuUrl": "https://frieo.tryorder.net/app",
+    "hours": "Mo-Su 13:00-04:00"
   },
   {
     "id": "4668",
@@ -3933,7 +4424,8 @@
     "city": "",
     "category": "Juice",
     "phone": "+966 50 955 9898",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "4671",
@@ -3941,7 +4433,8 @@
     "city": "",
     "category": "Kebab",
     "phone": "+966 17 523 0505",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "4673",
@@ -3949,7 +4442,8 @@
     "city": "",
     "category": "Seafood",
     "phone": "+966 50 759 5888",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "4675",
@@ -3957,7 +4451,8 @@
     "city": "",
     "category": "Chicken",
     "phone": "+966 17 522 5090",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "4713",
@@ -3965,7 +4460,8 @@
     "city": "",
     "category": "Coffee Shop",
     "phone": "+966 11 209 4970",
-    "menuUrl": "https://arabica.com/en/location/arabica-riyadh-roastery/"
+    "menuUrl": "https://arabica.com/en/location/arabica-riyadh-roastery/",
+    "hours": "Mo-We 07:00-23:00; Th-Fr 07:00-03:00; Sa-Su 07:00-23:00"
   },
   {
     "id": "4748",
@@ -3973,7 +4469,8 @@
     "city": "",
     "category": "Japanese",
     "phone": "+96655 581 5489",
-    "menuUrl": "https://tsuzuku-sa.com/"
+    "menuUrl": "https://tsuzuku-sa.com/",
+    "hours": "16:00-02:00"
   },
   {
     "id": "4749",
@@ -3981,7 +4478,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "056 928 0601",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "4753",
@@ -3989,7 +4487,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966531899407",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 05:00-12:00, 15:00-21:00"
   },
   {
     "id": "4770",
@@ -3997,7 +4496,8 @@
     "city": "",
     "category": "Arab",
     "phone": "9200 31222",
-    "menuUrl": "https://themarfoods.com"
+    "menuUrl": "https://themarfoods.com",
+    "hours": "Mo-Su 10:00-04:15"
   },
   {
     "id": "4785",
@@ -4005,7 +4505,8 @@
     "city": "جدة",
     "category": "Barbecue",
     "phone": "0530105252",
-    "menuUrl": "https://instabio.cc/Rknalkbab"
+    "menuUrl": "https://instabio.cc/Rknalkbab",
+    "hours": ""
   },
   {
     "id": "4787",
@@ -4013,7 +4514,8 @@
     "city": "",
     "category": "Arab",
     "phone": "9200 00144",
-    "menuUrl": "https://alromansiah.com/"
+    "menuUrl": "https://alromansiah.com/",
+    "hours": "Mo-Su 16:00-05:00"
   },
   {
     "id": "4788",
@@ -4021,7 +4523,8 @@
     "city": "",
     "category": "Arab",
     "phone": "+966 55 451 4433",
-    "menuUrl": "https://linktr.ee/alsaddahrest"
+    "menuUrl": "https://linktr.ee/alsaddahrest",
+    "hours": "Mo-Su 16:30-04:00"
   },
   {
     "id": "4817",
@@ -4029,7 +4532,8 @@
     "city": "",
     "category": "Arab",
     "phone": "053 335 9594",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 13:00-01:00"
   },
   {
     "id": "4825",
@@ -4037,7 +4541,8 @@
     "city": "",
     "category": "Coffee Shop",
     "phone": "+966559940448",
-    "menuUrl": "https://zed.sa/"
+    "menuUrl": "https://zed.sa/",
+    "hours": "24/7"
   },
   {
     "id": "4829",
@@ -4045,7 +4550,8 @@
     "city": "",
     "category": "Egyptian",
     "phone": "053 135 5868",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
     "id": "4833",
@@ -4053,7 +4559,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966535055201",
-    "menuUrl": "https://www.eatlazycat.com/en-sa/home"
+    "menuUrl": "https://www.eatlazycat.com/en-sa/home",
+    "hours": ""
   },
   {
     "id": "4836",
@@ -4061,7 +4568,8 @@
     "city": "",
     "category": "Cafe",
     "phone": "‏‪050 078 8851‬‏",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
     "id": "4841",
@@ -4069,7 +4577,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "+966 54 604 0534",
-    "menuUrl": "https://mama-ghanouj.menus-sa.com/ar"
+    "menuUrl": "https://mama-ghanouj.menus-sa.com/ar",
+    "hours": ""
   },
   {
     "id": "4844",
@@ -4077,7 +4586,8 @@
     "city": "",
     "category": "Arab",
     "phone": "+966 54 722 9250",
-    "menuUrl": "https://blaban.net/"
+    "menuUrl": "https://blaban.net/",
+    "hours": "24/7"
   },
   {
     "id": "4852",
@@ -4085,7 +4595,8 @@
     "city": "نجران",
     "category": "Middle Eastern",
     "phone": "+966509398350",
-    "menuUrl": "https://mashwibaladi.com"
+    "menuUrl": "https://mashwibaladi.com",
+    "hours": "Mo-Su 12:00-02:00"
   },
   {
     "id": "4862",
@@ -4093,7 +4604,8 @@
     "city": "Riyadh",
     "category": "Fast Food",
     "phone": "054 953 3944",
-    "menuUrl": "https://shaa.com.sa/"
+    "menuUrl": "https://shaa.com.sa/",
+    "hours": "Mo-We,Sa,Su 13:00-02:00; Th 13:00-03:00; Fr 16:00-03:00"
   },
   {
     "id": "4863",
@@ -4101,7 +4613,8 @@
     "city": "الرياض",
     "category": "Fast Food",
     "phone": "054 953 3944",
-    "menuUrl": "https://shaa.com.sa/"
+    "menuUrl": "https://shaa.com.sa/",
+    "hours": "Mo-We,Sa,Su 16:00-02:00; Th,Fr 16:00-03:00"
   },
   {
     "id": "4864",
@@ -4109,7 +4622,8 @@
     "city": "الرياض",
     "category": "Fast Food",
     "phone": "054 953 3944",
-    "menuUrl": "https://shaa.com.sa/"
+    "menuUrl": "https://shaa.com.sa/",
+    "hours": "Mo-We,Sa,Su 16:00-02:00; Th,Fr 16:00-03:00"
   },
   {
     "id": "4869",
@@ -4117,7 +4631,8 @@
     "city": "الرياض",
     "category": "Fast Food",
     "phone": "054 953 3944",
-    "menuUrl": "https://shaa.com.sa/"
+    "menuUrl": "https://shaa.com.sa/",
+    "hours": "Mo-We,Sa,Su 13:00-02:00; Th 13:00-03:00; Fr 16:00-03:00"
   },
   {
     "id": "4870",
@@ -4125,7 +4640,8 @@
     "city": "Riyadh",
     "category": "Fast Food",
     "phone": "054 953 3944",
-    "menuUrl": "https://shaa.com.sa/"
+    "menuUrl": "https://shaa.com.sa/",
+    "hours": "Mo-We,Sa,Su 13:00-02:00; Th 13:00-03:00; Fr 16:00-03:00"
   },
   {
     "id": "4871",
@@ -4133,7 +4649,8 @@
     "city": "الرياض",
     "category": "Fast Food",
     "phone": "054 953 3944",
-    "menuUrl": "https://shaa.com.sa/"
+    "menuUrl": "https://shaa.com.sa/",
+    "hours": "Mo-We,Su 13:00-01:00; Th-Sa 13:00-03:00"
   },
   {
     "id": "4872",
@@ -4141,7 +4658,8 @@
     "city": "Riyadh",
     "category": "Fast Food",
     "phone": "054 953 3944",
-    "menuUrl": "https://shaa.com.sa/"
+    "menuUrl": "https://shaa.com.sa/",
+    "hours": "Mo-We,Sa,Su 13:00-02:00; Th 13:00-03:00; Fr 16:00-03:00"
   },
   {
     "id": "4873",
@@ -4149,7 +4667,8 @@
     "city": "Riyadh",
     "category": "Fast Food",
     "phone": "054 953 3944",
-    "menuUrl": "https://shaa.com.sa/"
+    "menuUrl": "https://shaa.com.sa/",
+    "hours": "Mo-We,Sa,Su 13:00-02:00; Th 13:00-03:00; Fr 15:00-03:00"
   },
   {
     "id": "4874",
@@ -4157,7 +4676,8 @@
     "city": "الرياض",
     "category": "Fast Food",
     "phone": "054 953 3944",
-    "menuUrl": "https://shaa.com.sa/"
+    "menuUrl": "https://shaa.com.sa/",
+    "hours": "Mo-We,Sa,Su 13:00-01:00; Th 13:00-03:00; Fr 16:00-03:00"
   },
   {
     "id": "4875",
@@ -4165,7 +4685,8 @@
     "city": "Riyadh",
     "category": "Fast Food",
     "phone": "054 953 3944",
-    "menuUrl": "https://shaa.com.sa/"
+    "menuUrl": "https://shaa.com.sa/",
+    "hours": "Mo-We,Sa,Su 13:00-02:00; Th 13:00-03:00; Fr 16:00-03:00"
   },
   {
     "id": "4876",
@@ -4173,7 +4694,8 @@
     "city": "الرياض",
     "category": "Fast Food",
     "phone": "054 953 3944",
-    "menuUrl": "https://shaa.com.sa/"
+    "menuUrl": "https://shaa.com.sa/",
+    "hours": "Mo-We,Sa,Su 16:00-02:00; Th,Fr 16:00-03:00"
   },
   {
     "id": "4877",
@@ -4181,7 +4703,8 @@
     "city": "الرياض",
     "category": "Fast Food",
     "phone": "054 953 3944",
-    "menuUrl": "https://shaa.com.sa/"
+    "menuUrl": "https://shaa.com.sa/",
+    "hours": "Mo-We,Sa,Su 13:00-02:00; Th 13:00-03:00; Fr 17:00-03:00"
   },
   {
     "id": "4878",
@@ -4189,7 +4712,8 @@
     "city": "الرياض",
     "category": "Fast Food",
     "phone": "054 953 3944",
-    "menuUrl": "https://shaa.com.sa/"
+    "menuUrl": "https://shaa.com.sa/",
+    "hours": "Mo-We,Fr-Su 16:00-03:00; Th 14:00-03:00"
   },
   {
     "id": "4879",
@@ -4197,7 +4721,8 @@
     "city": "Riyadh",
     "category": "Fast Food",
     "phone": "054 953 3944",
-    "menuUrl": "https://shaa.com.sa/"
+    "menuUrl": "https://shaa.com.sa/",
+    "hours": "Mo-We,Sa,Su 17:00-02:00; Th,Fr 17:00-03:00"
   },
   {
     "id": "4881",
@@ -4205,7 +4730,8 @@
     "city": "",
     "category": "Italian",
     "phone": "+966 50 913 7122",
-    "menuUrl": "https://ilgabbianoksa.com/"
+    "menuUrl": "https://ilgabbianoksa.com/",
+    "hours": ""
   },
   {
     "id": "4909",
@@ -4213,7 +4739,8 @@
     "city": "",
     "category": "Restaurant",
     "phone": "0581631719",
-    "menuUrl": "https://www.mandiworld.com.sa/"
+    "menuUrl": "https://www.mandiworld.com.sa/",
+    "hours": "Mo-Su 11:30-01:30, 11:30-01:30"
   },
   {
     "id": "4972",
@@ -4221,7 +4748,8 @@
     "city": "الأضارع",
     "category": "Coffee Shop",
     "phone": "+966530240448",
-    "menuUrl": "https://gold-for-specialty-coffee.yallaqrcodes.com/"
+    "menuUrl": "https://gold-for-specialty-coffee.yallaqrcodes.com/",
+    "hours": "24/7"
   },
   {
     "id": "4978",
@@ -4229,358 +4757,412 @@
     "city": "",
     "category": "Juice",
     "phone": "+966 13 818 8434",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
-    "id": "5074",
+    "id": "5031",
+    "name": "مطاعم درة الصين",
+    "city": "",
+    "category": "Chinese",
+    "phone": "+966 92 000 8118",
+    "menuUrl": "",
+    "hours": ""
+  },
+  {
+    "id": "5077",
     "name": "Afnan restaurant مطعم افنان",
     "city": "jeddah",
     "category": "Regional",
     "phone": "0502268333",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "12:00-1:00"
   },
   {
-    "id": "5140",
+    "id": "5143",
     "name": "Al Ennabi Grill",
     "city": "Khobar",
     "category": "Restaurant",
     "phone": "+966920006396",
-    "menuUrl": "https://www.ennabigrill.com/"
+    "menuUrl": "https://www.ennabigrill.com/",
+    "hours": ""
   },
   {
-    "id": "5199",
+    "id": "5202",
     "name": "مطعم التنور",
     "city": "",
     "category": "Restaurant",
     "phone": "+966138511141",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
-    "id": "5206",
+    "id": "5209",
     "name": "عيش و سمك",
     "city": "",
     "category": "Seafood",
     "phone": "+966138630044",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
-    "id": "5221",
+    "id": "5224",
     "name": "ڤوي لاونج",
     "city": "",
     "category": "Restaurant",
     "phone": "+966 533 061 112",
-    "menuUrl": "https://www.instagram.com/voi_lounge/"
+    "menuUrl": "https://www.instagram.com/voi_lounge/",
+    "hours": ""
   },
   {
-    "id": "5228",
+    "id": "5231",
     "name": "البيت الذهبي",
     "city": "",
     "category": "Regional",
     "phone": "0114309999",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 10:00-24:00"
   },
   {
-    "id": "5246",
+    "id": "5249",
     "name": "كفي خليط",
     "city": "البكيرية",
     "category": "Coffee Shop",
     "phone": "0532095174",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
-    "id": "5249",
+    "id": "5252",
     "name": "Belad Al Shaam",
     "city": "",
     "category": "Restaurant",
     "phone": "+966138935941",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
-    "id": "5265",
+    "id": "5268",
     "name": "مطعم ليالي الشام",
     "city": "Sabya",
     "category": "Pizza",
     "phone": "+966546663720",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
-    "id": "5272",
+    "id": "5275",
     "name": "جورميه كافيه",
     "city": "Riyadh",
     "category": "Coffee Shop",
     "phone": "+966112200096",
-    "menuUrl": "http://gourmet-cafe.net/"
+    "menuUrl": "http://gourmet-cafe.net/",
+    "hours": "24/7"
   },
   {
-    "id": "5281",
+    "id": "5284",
     "name": "Salt Al Bahar",
     "city": "",
     "category": "Restaurant",
     "phone": "+966920024788",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
-    "id": "5285",
+    "id": "5288",
     "name": "Cafe rose hand",
     "city": "مكة",
     "category": "Coffee Shop",
     "phone": "+966546444021",
-    "menuUrl": "https://rosehandcafe.business.site"
+    "menuUrl": "https://rosehandcafe.business.site",
+    "hours": "sunrise-sunset"
   },
   {
-    "id": "5287",
+    "id": "5290",
     "name": "هوغو Hugo",
     "city": "الرياض",
     "category": "Cake",
     "phone": "+966531322191",
-    "menuUrl": "https://foursquare.com/v/hugo/61c44a1b5620f14bbc7e224a"
+    "menuUrl": "https://foursquare.com/v/hugo/61c44a1b5620f14bbc7e224a",
+    "hours": "Mo-Su 15:00-02:00"
   },
   {
-    "id": "5290",
+    "id": "5293",
     "name": "Eat'sy Restaurant",
     "city": "",
     "category": "Italian",
     "phone": "+966509636888",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
-    "id": "5292",
+    "id": "5295",
     "name": "مقهى كلمات Kalimatcoffe",
     "city": "الرياض",
     "category": "Coffee Shop",
     "phone": "+966500013814",
-    "menuUrl": "https://hookah-bar-1090.business.site/?utm_source=gmb&utm_medium=referral"
+    "menuUrl": "https://hookah-bar-1090.business.site/?utm_source=gmb&utm_medium=referral",
+    "hours": "24/7"
   },
   {
-    "id": "5293",
+    "id": "5296",
     "name": "لوبو كافيه LOBO CAFE",
     "city": "تربة",
     "category": "Coffee Shop",
     "phone": "+966500037933",
-    "menuUrl": "https://foursquare.com/v/lobo-caf%C3%A9/617235c5873f1e3bc009403f"
+    "menuUrl": "https://foursquare.com/v/lobo-caf%C3%A9/617235c5873f1e3bc009403f",
+    "hours": "24/7"
   },
   {
-    "id": "5296",
+    "id": "5299",
     "name": "كيان KYAN",
     "city": "شرورة",
     "category": "Cafe",
     "phone": "920011100",
-    "menuUrl": "https://www.kyancafe.com/"
+    "menuUrl": "https://www.kyancafe.com/",
+    "hours": "24/7"
   },
   {
-    "id": "5297",
+    "id": "5300",
     "name": "أصل البرجر TBO",
     "city": "شرورة",
     "category": "Burger",
     "phone": "0534226989",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "12:00-02:00"
   },
   {
-    "id": "5298",
+    "id": "5301",
     "name": "ركن مقادير",
     "city": "شرورة",
     "category": "مأكولات شرق أوسطية",
     "phone": "0506676520",
-    "menuUrl": "https://www.instagram.com/maqadeerres/reels/"
+    "menuUrl": "https://www.instagram.com/maqadeerres/reels/",
+    "hours": "16:00-02:00"
   },
   {
-    "id": "5308",
+    "id": "5311",
     "name": "ايتي برسينت كافية Coffee 80%",
     "city": "صامطة",
     "category": "Cafe",
     "phone": "+966551179399",
-    "menuUrl": "https://solo.to/coffee80.sa"
+    "menuUrl": "https://solo.to/coffee80.sa",
+    "hours": "24/7"
   },
   {
-    "id": "5309",
+    "id": "5312",
     "name": "مطعم القلعة",
     "city": "",
     "category": "Restaurant",
     "phone": "+966138235222",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
-    "id": "5311",
+    "id": "5314",
     "name": "Vera Pizza",
     "city": "",
     "category": "Pizza",
     "phone": "0530776531",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 17:00-22:00"
   },
   {
-    "id": "5312",
+    "id": "5315",
     "name": "Terminal B",
     "city": "",
     "category": "Burger",
     "phone": "0530776531",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 17:00-22:00"
   },
   {
-    "id": "5315",
+    "id": "5318",
     "name": "زغاليل",
     "city": "",
     "category": "Restaurant",
     "phone": "+966127333633",
-    "menuUrl": "https://zaghaleel.com/"
+    "menuUrl": "https://zaghaleel.com/",
+    "hours": "12:00-01:30"
   },
   {
-    "id": "5319",
+    "id": "5322",
     "name": "الرمانة",
     "city": "",
     "category": "Kebab",
     "phone": "+966127462485",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
-    "id": "5326",
+    "id": "5329",
     "name": "المضياف",
     "city": "",
     "category": "Restaurant",
     "phone": "+966920010800",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
-    "id": "5327",
+    "id": "5330",
     "name": "مطاعم كندة",
     "city": "",
     "category": "Arab",
     "phone": "+966920020296",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
-    "id": "5330",
+    "id": "5333",
     "name": "مبشور الطائف",
     "city": "",
     "category": "Restaurant",
     "phone": "+966555723459",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
-    "id": "5331",
+    "id": "5334",
     "name": "Baroque",
     "city": "",
     "category": "Fast Food",
     "phone": "0558998353",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 10:00-22:00"
   },
   {
-    "id": "5358",
+    "id": "5361",
     "name": "آيسبريسو",
     "city": "",
     "category": "Cafe",
     "phone": "+966556667350",
-    "menuUrl": "https://linktr.ee/icepresso"
+    "menuUrl": "https://linktr.ee/icepresso",
+    "hours": ""
   },
   {
-    "id": "5360",
+    "id": "5363",
     "name": "Park Coffee Drive Thru",
     "city": "شروره",
     "category": "Coffee Shop",
     "phone": "+966508991322",
-    "menuUrl": "https://parkcoffeesa.com/"
+    "menuUrl": "https://parkcoffeesa.com/",
+    "hours": "24/7"
   },
   {
-    "id": "5382",
+    "id": "5385",
     "name": "فلفله",
     "city": "",
     "category": "Restaurant",
     "phone": "0138980909",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 10:00-02:00"
   },
   {
-    "id": "5383",
+    "id": "5386",
     "name": "مطعم البانوش",
     "city": "",
     "category": "Restaurant",
     "phone": "0138948377",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "24/7"
   },
   {
-    "id": "5386",
+    "id": "5389",
     "name": "POSITIVE Breakfast & Salad",
     "city": "Dammam",
     "category": "Coffee Shop",
     "phone": "+966 57 174 0114",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 07:00-15:00"
   },
   {
-    "id": "5387",
+    "id": "5390",
     "name": "Kaylah Lounge",
     "city": "Yanbu",
     "category": "Coffee Shop",
     "phone": "+966583018191",
-    "menuUrl": "https://www.instagram.com/kaylah_ksa/?hl=en"
+    "menuUrl": "https://www.instagram.com/kaylah_ksa/?hl=en",
+    "hours": "Mo-Su 06:00-23:00"
   },
   {
-    "id": "5394",
+    "id": "5397",
     "name": "مطعم المضياف",
     "city": "",
     "category": "Beef Bowl",
     "phone": "+966920010800",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 11:00-18:00"
   },
   {
-    "id": "5395",
+    "id": "5398",
     "name": "مطعم وادى ميسان",
     "city": "Al qatif",
     "category": "Pizza",
     "phone": "+966541092567",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": "Mo-Su 18:00-01:00"
   },
   {
-    "id": "5404",
+    "id": "5407",
     "name": "Gateway Coffee",
     "city": "جدة",
     "category": "Coffee Shop",
     "phone": "⁦+966 55 104 8675⁩",
-    "menuUrl": "https://www.instagram.com/gateway.coffee?igshid=OGQ5ZDc2ODk2ZA%3D%3D"
+    "menuUrl": "https://www.instagram.com/gateway.coffee?igshid=OGQ5ZDc2ODk2ZA%3D%3D",
+    "hours": "24/7"
   },
   {
-    "id": "5446",
+    "id": "5449",
     "name": "PEACOCK Roaste & Cafe",
     "city": "Ha'il",
     "category": "Coffee Shop",
     "phone": "+966 54 852 1575",
-    "menuUrl": "https://peacockroaster.com/?fbclid=PAZXh0bgNhZW0CMTEAAabbcCl0Cye-9l94sK82QAHmHOgHbdrEdFkUAOAZpkzERBOWVYTI-XCL5pY_aem_pD4I2xHblFPpI4awRLbq5A"
+    "menuUrl": "https://peacockroaster.com/?fbclid=PAZXh0bgNhZW0CMTEAAabbcCl0Cye-9l94sK82QAHmHOgHbdrEdFkUAOAZpkzERBOWVYTI-XCL5pY_aem_pD4I2xHblFPpI4awRLbq5A",
+    "hours": "06:00-23:00"
   },
   {
-    "id": "5456",
+    "id": "5459",
     "name": "مطابخ ومطاعم بجيلة",
     "city": "",
     "category": "Burger",
     "phone": "+966503055959",
-    "menuUrl": "https://linktr.ee/bajila.rest"
+    "menuUrl": "https://linktr.ee/bajila.rest",
+    "hours": "Sa-Th 11:00-03:00"
   },
   {
-    "id": "5466",
+    "id": "5469",
     "name": "Donut Land",
     "city": "",
     "category": "Donut",
     "phone": "+966 55 330 4963",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
-    "id": "5485",
+    "id": "5488",
     "name": "شيف إياد",
     "city": "",
     "category": "Beef",
     "phone": "+966 55 221 8833",
-    "menuUrl": "https://linktr.ee/ChefEyad.Jeddah"
+    "menuUrl": "https://linktr.ee/ChefEyad.Jeddah",
+    "hours": "Sa-We 12:00-02:00; Th 12:00-03:00; Fr 13:00-03:00"
   },
   {
-    "id": "5487",
+    "id": "5490",
     "name": "Dave's Hot Chicken",
     "city": "",
     "category": "Chicken",
     "phone": "+966 12 591 0813",
-    "menuUrl": ""
+    "menuUrl": "",
+    "hours": ""
   },
   {
-    "id": "5515",
+    "id": "5519",
     "name": "ايتي برسينت كافيه 80% COFFEE",
     "city": "صامطة",
     "category": "Cafe",
     "phone": "+966551179399",
-    "menuUrl": "https://solo.to/coffee80.sa"
+    "menuUrl": "https://solo.to/coffee80.sa",
+    "hours": "24/7"
   }
 ]
